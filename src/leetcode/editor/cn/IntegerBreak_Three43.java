@@ -30,28 +30,29 @@
 
 package leetcode.editor.cn;
 
-public class IntegerBreak_Three43{
-    public static void main(String[] args){
+public class IntegerBreak_Three43 {
+    public static void main(String[] args) {
         Solution solution = new IntegerBreak_Three43().new Solution();
     }
+
     //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
-    public int integerBreak(int n) {
-        // dp[i]表示绳子的长度是i时的最大乘积
-        // dp[i]=max(j*(i-j),j*dp[i-j]) j*(i-j)将i拆分成j和i-j的和，且i-j不再拆分成多个正整数；j*dp[i-j]将i拆分成j和i-j的和，且i-j继续拆分成多个正整数
-        int[] dp = new int[n + 1];
-        dp[0] = 0;
-        dp[1] = 1;
-        for (int i = 2; i <= n; i++) {
-            int curMax = 0;
-            for (int j = 1; j < i; j++) {
-                curMax = Math.max(curMax, Math.max(j * (i - j), j * dp[i - j]));
+    class Solution {
+        public int integerBreak(int n) {
+            // dp[i]表示绳子的长度是i时的最大乘积
+            // dp[i]=max(j*(i-j),j*dp[i-j]) j*(i-j)将i拆分成j和i-j的和，且i-j不再拆分成多个正整数；j*dp[i-j]将i拆分成j和i-j的和，且i-j继续拆分成多个正整数
+            int[] dp = new int[n + 1];
+            dp[0] = 0;
+            dp[1] = 1;
+            for (int i = 2; i <= n; i++) {
+                int curMax = 0;
+                for (int j = 1; j < i; j++) {
+                    curMax = Math.max(curMax, Math.max(j * (i - j), j * dp[i - j]));
+                }
+                dp[i] = curMax;
             }
-            dp[i] = curMax;
+            return dp[n];
         }
-        return dp[n];
     }
-}
 //leetcode submit region end(Prohibit modification and deletion)
 
 }

@@ -39,25 +39,26 @@ package leetcode.editor.cn;
 
 import java.util.Stack;
 
-public class ValidateStackSequences_Nine46{
-    public static void main(String[] args){
+public class ValidateStackSequences_Nine46 {
+    public static void main(String[] args) {
         Solution solution = new ValidateStackSequences_Nine46().new Solution();
     }
+
     //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
-    public boolean validateStackSequences(int[] pushed, int[] popped) {
-        Stack<Integer> s = new Stack<>();
-        int i = 0;
-        for (int push : pushed) {
-            s.push(push);
-            while (!s.isEmpty() && s.peek() == popped[i]) {
-                s.pop();
-                i++;
+    class Solution {
+        public boolean validateStackSequences(int[] pushed, int[] popped) {
+            Stack<Integer> s = new Stack<>();
+            int i = 0;
+            for (int push : pushed) {
+                s.push(push);
+                while (!s.isEmpty() && s.peek() == popped[i]) {
+                    s.pop();
+                    i++;
+                }
             }
+            return s.isEmpty();
         }
-        return s.isEmpty();
     }
-}
 //leetcode submit region end(Prohibit modification and deletion)
 
 }

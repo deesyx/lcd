@@ -38,12 +38,13 @@
 
 package leetcode.editor.cn;
 
-public class PowxN_Five0{
-    public static void main(String[] args){
+public class PowxN_Five0 {
+    public static void main(String[] args) {
         Solution solution = new PowxN_Five0().new Solution();
     }
+
     //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+    class Solution {
         public double myPow(double x, int n) {
             return n >= 0 ? dfs(x, n) : 1 / dfs(x, n);
         }
@@ -56,7 +57,7 @@ class Solution {
             double ans = dfs(x, n / 2);
             return n % 2 == 0 ? ans * ans : ans * ans * x;
         }
-}
+    }
 //leetcode submit region end(Prohibit modification and deletion)
 
 }
