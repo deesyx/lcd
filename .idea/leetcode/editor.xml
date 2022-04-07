@@ -58,6 +58,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ErChaSouSuoShuYuShuangXiangLianBiaoLcof_剑指Offer36.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ErChaSouSuoShuYuShuangXiangLianBiaoLcof_剑指Offer36.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 36" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ErChaSouSuoShuYuShuangXiangLianBiaoLcof_剑指Offer36.java" />
+              <option name="titleSlug" value="er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ErJinZhiZhong1deGeShuLcof_剑指Offer15.java">
           <value>
             <LeetcodeEditor>
@@ -165,6 +176,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PowxN_Five0.java" />
               <option name="titleSlug" value="powx-n" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/QueShiDeShuZiLcof_剑指Offer53II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/QueShiDeShuZiLcof_剑指Offer53II.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer 53 - II" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/QueShiDeShuZiLcof_剑指Offer53II.java" />
+              <option name="titleSlug" value="que-shi-de-shu-zi-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
