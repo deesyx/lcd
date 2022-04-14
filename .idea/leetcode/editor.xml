@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ConstructBinaryTreeFromPreorderAndInorderTraversal_One05.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ConstructBinaryTreeFromPreorderAndInorderTraversal_One05.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com105" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ConstructBinaryTreeFromPreorderAndInorderTraversal_One05.java" />
+              <option name="titleSlug" value="construct-binary-tree-from-preorder-and-inorder-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DuiLieDeZuiDaZhiLcof_剑指Offer59II.java">
           <value>
             <LeetcodeEditor>
@@ -212,6 +223,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestIncreasingSubsequence_Three00.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/LongestIncreasingSubsequence_Three00.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com300" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestIncreasingSubsequence_Three00.java" />
+              <option name="titleSlug" value="longest-increasing-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumWindowSubstring_Seven6.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MinimumWindowSubstring_Seven6.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com76" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumWindowSubstring_Seven6.java" />
+              <option name="titleSlug" value="minimum-window-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PingHengErChaShuLcof_剑指Offer55II.java">
           <value>
             <LeetcodeEditor>
@@ -234,6 +267,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PrintFoobarAlternately_One115.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/PrintFoobarAlternately_One115.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1115" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PrintFoobarAlternately_One115.java" />
+              <option name="titleSlug" value="print-foobar-alternately" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PrintInOrder_One114.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/PrintInOrder_One114.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1114" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PrintInOrder_One114.java" />
+              <option name="titleSlug" value="print-in-order" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/QueShiDeShuZiLcof_剑指Offer53II.java">
           <value>
             <LeetcodeEditor>
@@ -242,6 +297,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/QueShiDeShuZiLcof_剑指Offer53II.java" />
               <option name="titleSlug" value="que-shi-de-shu-zi-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ShortestSubarrayWithSumAtLeastK_Eight62.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ShortestSubarrayWithSumAtLeastK_Eight62.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com862" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ShortestSubarrayWithSumAtLeastK_Eight62.java" />
+              <option name="titleSlug" value="shortest-subarray-with-sum-at-least-k" />
             </LeetcodeEditor>
           </value>
         </entry>
