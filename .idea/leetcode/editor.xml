@@ -58,6 +58,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountDifferentPalindromicSubsequences_Seven30.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CountDifferentPalindromicSubsequences_Seven30.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com730" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountDifferentPalindromicSubsequences_Seven30.java" />
+              <option name="titleSlug" value="count-different-palindromic-subsequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DuiLieDeZuiDaZhiLcof_剑指Offer59II.java">
           <value>
             <LeetcodeEditor>
@@ -234,6 +245,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestCommonSubsequence_One143.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/LongestCommonSubsequence_One143.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1143" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestCommonSubsequence_One143.java" />
+              <option name="titleSlug" value="longest-common-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestIncreasingSubsequence_Three00.java">
           <value>
             <LeetcodeEditor>
@@ -245,6 +267,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestPalindromicSubsequence_Five16.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/LongestPalindromicSubsequence_Five16.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com516" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestPalindromicSubsequence_Five16.java" />
+              <option name="titleSlug" value="longest-palindromic-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestPalindromicSubstring_Five.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/LongestPalindromicSubstring_Five.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com5" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestPalindromicSubstring_Five.java" />
+              <option name="titleSlug" value="longest-palindromic-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters_Three.java">
           <value>
             <LeetcodeEditor>
@@ -253,6 +297,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters_Three.java" />
               <option name="titleSlug" value="longest-substring-without-repeating-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumLengthOfRepeatedSubarray_Seven18.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MaximumLengthOfRepeatedSubarray_Seven18.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com718" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumLengthOfRepeatedSubarray_Seven18.java" />
+              <option name="titleSlug" value="maximum-length-of-repeated-subarray" />
             </LeetcodeEditor>
           </value>
         </entry>

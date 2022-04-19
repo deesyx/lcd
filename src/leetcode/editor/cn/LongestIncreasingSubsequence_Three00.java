@@ -56,13 +56,14 @@ public class LongestIncreasingSubsequence_Three00 {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
-        // dp[i]表示以nums[i]结尾的最长递增子序列长度
-        // dp[i]=max(dp[0]..dp[j])+1 0<=j<i且nums[j]<nums[i]
+        // dp[i]表示以s[i]为结尾的最长递增子序列长度
+        // dp[i]=max(dp[0],..dp[j])+1 s[j]<s[i] && j<i
         public int lengthOfLIS(int[] nums) {
             int[] dp = new int[nums.length];
-            Arrays.fill(dp, 1);
+            dp[0] = 1;
 
-            for (int i = 1; i < nums.length; i++) {
+            int ans = 1;
+            for (int i = 1; i < dp.length; i++) {
                 int max = 0;
                 for (int j = 0; j < i; j++) {
                     if (nums[j] < nums[i]) {
@@ -70,11 +71,7 @@ public class LongestIncreasingSubsequence_Three00 {
                     }
                 }
                 dp[i] = max + 1;
-            }
-
-            int ans = 0;
-            for (int n : dp) {
-                ans = Math.max(ans, n);
+                ans = Math.max(ans, dp[i]);
             }
             return ans;
         }
