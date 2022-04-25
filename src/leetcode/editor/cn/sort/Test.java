@@ -71,6 +71,12 @@ public class Test {
         }
     }
 
+    private static void swap(int[] nums, int i, int j) {
+        int t = nums[i];
+        nums[i] = nums[j];
+        nums[j] = t;
+    }
+
     private static class QuickSort {
         void sort(int[] nums) {
             quickSort(nums, 0, nums.length - 1);
@@ -138,11 +144,5 @@ public class Test {
                 nums[i] = buffer[i];
             }
         }
-    }
-
-    private static void swap(int[] nums, int i, int j) {
-        int t = nums[i];
-        nums[i] = nums[j];
-        nums[j] = t;
     }
 }
