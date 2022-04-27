@@ -333,6 +333,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PacificAtlanticWaterFlow_Four17.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/PacificAtlanticWaterFlow_Four17.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com417" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PacificAtlanticWaterFlow_Four17.java" />
+              <option name="titleSlug" value="pacific-atlantic-water-flow" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PingHengErChaShuLcof_剑指Offer55II.java">
           <value>
             <LeetcodeEditor>
