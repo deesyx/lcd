@@ -58,6 +58,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ConstructQuadTree_Four27.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ConstructQuadTree_Four27.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com427" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ConstructQuadTree_Four27.java" />
+              <option name="titleSlug" value="construct-quad-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountDifferentPalindromicSubsequences_Seven30.java">
           <value>
             <LeetcodeEditor>
@@ -462,6 +473,28 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ShuZuZhongShuZiChuXianDeCiShuLcof_剑指Offer56I.java" />
               <option name="titleSlug" value="shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SortArrayByParity_Nine05.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SortArrayByParity_Nine05.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com905" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SortArrayByParity_Nine05.java" />
+              <option name="titleSlug" value="sort-array-by-parity" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SubarrayProductLessThanK_Seven13.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SubarrayProductLessThanK_Seven13.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com713" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SubarrayProductLessThanK_Seven13.java" />
+              <option name="titleSlug" value="subarray-product-less-than-k" />
             </LeetcodeEditor>
           </value>
         </entry>
