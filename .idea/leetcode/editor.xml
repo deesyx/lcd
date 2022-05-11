@@ -487,6 +487,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SerializeAndDeserializeBst_Four49.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SerializeAndDeserializeBst_Four49.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com449" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SerializeAndDeserializeBst_Four49.java" />
+              <option name="titleSlug" value="serialize-and-deserialize-bst" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ShortestSubarrayWithSumAtLeastK_Eight62.java">
           <value>
             <LeetcodeEditor>
