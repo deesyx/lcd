@@ -289,6 +289,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/KthSmallestNumberInMultiplicationTable_Six68.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/KthSmallestNumberInMultiplicationTable_Six68.md" />
+              <option name="frontendQuestionId" value="leetcode.cn668" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/KthSmallestNumberInMultiplicationTable_Six68.java" />
+              <option name="titleSlug" value="kth-smallest-number-in-multiplication-table" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestCommonSubsequence_One143.java">
           <value>
             <LeetcodeEditor>
