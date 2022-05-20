@@ -201,6 +201,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindRightInterval_Four36.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/FindRightInterval_Four36.md" />
+              <option name="frontendQuestionId" value="leetcode.cn436" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindRightInterval_Four36.java" />
+              <option name="titleSlug" value="find-right-interval" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FlattenBinaryTreeToLinkedList_One14.java">
           <value>
             <LeetcodeEditor>
