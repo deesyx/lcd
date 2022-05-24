@@ -685,6 +685,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/UnivaluedBinaryTree_Nine65.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/UnivaluedBinaryTree_Nine65.md" />
+              <option name="frontendQuestionId" value="leetcode.cn965" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/UnivaluedBinaryTree_Nine65.java" />
+              <option name="titleSlug" value="univalued-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ValidateStackSequences_Nine46.java">
           <value>
             <LeetcodeEditor>
