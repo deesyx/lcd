@@ -685,6 +685,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/UniqueSubstringsInWraparoundString_Four67.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/UniqueSubstringsInWraparoundString_Four67.md" />
+              <option name="frontendQuestionId" value="leetcode.cn467" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/UniqueSubstringsInWraparoundString_Four67.java" />
+              <option name="titleSlug" value="unique-substrings-in-wraparound-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/UnivaluedBinaryTree_Nine65.java">
           <value>
             <LeetcodeEditor>
