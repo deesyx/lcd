@@ -190,6 +190,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FallingSquares_Six99.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/FallingSquares_Six99.md" />
+              <option name="frontendQuestionId" value="leetcode.cn699" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FallingSquares_Six99.java" />
+              <option name="titleSlug" value="falling-squares" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FanZhuanDanCiShunXuLcof_剑指Offer58I.java">
           <value>
             <LeetcodeEditor>
