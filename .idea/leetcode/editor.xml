@@ -355,6 +355,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/KDiffPairsInAnArray_Five32.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/KDiffPairsInAnArray_Five32.md" />
+              <option name="frontendQuestionId" value="leetcode.cn532" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/KDiffPairsInAnArray_Five32.java" />
+              <option name="titleSlug" value="k-diff-pairs-in-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/KthSmallestNumberInMultiplicationTable_Six68.java">
           <value>
             <LeetcodeEditor>
