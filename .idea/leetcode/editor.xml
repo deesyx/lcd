@@ -135,6 +135,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DuplicateZeros_One089.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/DuplicateZeros_One089.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1089" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DuplicateZeros_One089.java" />
+              <option name="titleSlug" value="duplicate-zeros" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/EditDistance_Seven2.java">
           <value>
             <LeetcodeEditor>
