@@ -245,6 +245,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindNearestPointThatHasTheSameXOrYCoordinate_One779.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/FindNearestPointThatHasTheSameXOrYCoordinate_One779.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1779" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindNearestPointThatHasTheSameXOrYCoordinate_One779.java" />
+              <option name="titleSlug" value="find-nearest-point-that-has-the-same-x-or-y-coordinate" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindRightInterval_Four36.java">
           <value>
             <LeetcodeEditor>
