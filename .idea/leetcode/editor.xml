@@ -168,6 +168,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/EncodeAndDecodeTinyurl_Five35.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/EncodeAndDecodeTinyurl_Five35.md" />
+              <option name="frontendQuestionId" value="leetcode.cn535" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/EncodeAndDecodeTinyurl_Five35.java" />
+              <option name="titleSlug" value="encode-and-decode-tinyurl" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ErChaShuDeShenDuLcof_剑指Offer55I.java">
           <value>
             <LeetcodeEditor>
