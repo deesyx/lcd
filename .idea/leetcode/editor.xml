@@ -641,6 +641,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PrimeArrangements_One175.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/PrimeArrangements_One175.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1175" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PrimeArrangements_One175.java" />
+              <option name="titleSlug" value="prime-arrangements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PrintFoobarAlternately_One115.java">
           <value>
             <LeetcodeEditor>
