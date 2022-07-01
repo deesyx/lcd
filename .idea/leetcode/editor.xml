@@ -135,6 +135,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DifferentWaysToAddParentheses_Two41.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/DifferentWaysToAddParentheses_Two41.md" />
+              <option name="frontendQuestionId" value="leetcode.cn241" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DifferentWaysToAddParentheses_Two41.java" />
+              <option name="titleSlug" value="different-ways-to-add-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DuiLieDeZuiDaZhiLcof_剑指Offer59II.java">
           <value>
             <LeetcodeEditor>
