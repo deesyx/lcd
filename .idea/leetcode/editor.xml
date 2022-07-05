@@ -608,6 +608,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MyCalendarI_Seven29.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MyCalendarI_Seven29.md" />
+              <option name="frontendQuestionId" value="leetcode.cn729" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MyCalendarI_Seven29.java" />
+              <option name="titleSlug" value="my-calendar-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfRecentCalls_Nine33.java">
           <value>
             <LeetcodeEditor>
