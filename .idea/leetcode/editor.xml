@@ -806,6 +806,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SmallestStringStartingFromLeaf_Nine88.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SmallestStringStartingFromLeaf_Nine88.md" />
+              <option name="frontendQuestionId" value="leetcode.cn988" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SmallestStringStartingFromLeaf_Nine88.java" />
+              <option name="titleSlug" value="smallest-string-starting-from-leaf" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SortArrayByParity_Nine05.java">
           <value>
             <LeetcodeEditor>
