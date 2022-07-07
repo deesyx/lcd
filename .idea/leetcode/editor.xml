@@ -751,6 +751,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ReplaceWords_Six48.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ReplaceWords_Six48.md" />
+              <option name="frontendQuestionId" value="leetcode.cn648" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ReplaceWords_Six48.java" />
+              <option name="titleSlug" value="replace-words" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SerializeAndDeserializeBst_Four49.java">
           <value>
             <LeetcodeEditor>
