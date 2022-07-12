@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CellsWithOddValuesInAMatrix_One252.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CellsWithOddValuesInAMatrix_One252.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1252" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CellsWithOddValuesInAMatrix_One252.java" />
+              <option name="titleSlug" value="cells-with-odd-values-in-a-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CongShangDaoXiaDaYinErChaShuLcof_剑指Offer32I.java">
           <value>
             <LeetcodeEditor>
