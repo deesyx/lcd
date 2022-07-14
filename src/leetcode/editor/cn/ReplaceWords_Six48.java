@@ -47,9 +47,7 @@
 
 package leetcode.editor.cn;
 
-import java.util.Arrays;
 import java.util.List;
-import java.util.Objects;
 
 public class ReplaceWords_Six48 {
     public static void main(String[] args) {
@@ -60,21 +58,19 @@ public class ReplaceWords_Six48 {
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
 
-        private class DictTree {
-            char val;
+        private class TrieNode {
             int index = -1;
-            DictTree[] children = new DictTree[26];
+            TrieNode[] children = new TrieNode[26];
 
-            public DictTree(char val) {
-                this.val = val;
+            public TrieNode() {
             }
 
             public void add(String word, int index) {
-                DictTree cur = this;
+                TrieNode cur = this;
                 for (int i = 0; i < word.length(); i++) {
                     char c = word.charAt(i);
                     if (cur.children[c - 'a'] == null) {
-                        cur.children[c - 'a'] = new DictTree(c);
+                        cur.children[c - 'a'] = new TrieNode();
                     }
                     cur = cur.children[c - 'a'];
                 }
@@ -82,7 +78,7 @@ public class ReplaceWords_Six48 {
             }
 
             public int find(String s) {
-                DictTree cur = this;
+                TrieNode cur = this;
                 for (int i = 0; i < s.length(); i++) {
                     char c = s.charAt(i);
                     if (cur.index != -1) {
@@ -98,7 +94,7 @@ public class ReplaceWords_Six48 {
         }
 
         public String replaceWords(List<String> dictionary, String sentence) {
-            DictTree root = new DictTree('0');
+            TrieNode root = new TrieNode();
             for (int i = 0; i < dictionary.size(); i++) {
                 root.add(dictionary.get(i), i);
             }

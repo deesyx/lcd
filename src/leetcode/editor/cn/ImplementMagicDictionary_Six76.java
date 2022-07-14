@@ -64,23 +64,21 @@ public class ImplementMagicDictionary_Six76 {
     //leetcode submit region begin(Prohibit modification and deletion)
     class MagicDictionary {
 
-        DictTree root = new DictTree(' ');
+        TrieNode root = new TrieNode();
 
-        private class DictTree {
-            char val;
+        private class TrieNode {
             boolean end = false;
-            DictTree[] children = new DictTree[26];
+            TrieNode[] children = new TrieNode[26];
 
-            public DictTree(char val) {
-                this.val = val;
+            public TrieNode() {
             }
 
             public void add(String word) {
-                DictTree cur = this;
+                TrieNode cur = this;
                 for (int i = 0; i < word.length(); i++) {
                     char c = word.charAt(i);
                     if (cur.children[c - 'a'] == null) {
-                        cur.children[c - 'a'] = new DictTree(c);
+                        cur.children[c - 'a'] = new TrieNode();
                     }
                     cur = cur.children[c - 'a'];
                 }
@@ -88,7 +86,7 @@ public class ImplementMagicDictionary_Six76 {
             }
 
             public boolean find(char[] chars) {
-                DictTree cur = this;
+                TrieNode cur = this;
                 for (char c : chars) {
                     if (cur.children[c - 'a'] == null) {
                         return false;
