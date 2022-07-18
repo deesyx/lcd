@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BinaryTreePruning_Eight14.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/BinaryTreePruning_Eight14.md" />
+              <option name="frontendQuestionId" value="leetcode.cn814" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/BinaryTreePruning_Eight14.java" />
+              <option name="titleSlug" value="binary-tree-pruning" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CatAndMouseIi_One728.java">
           <value>
             <LeetcodeEditor>
