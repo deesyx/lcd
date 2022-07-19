@@ -69,32 +69,27 @@ public class ImplementMagicDictionary_Six76 {
         private class TrieNode {
             boolean end = false;
             TrieNode[] children = new TrieNode[26];
+        }
 
-            public TrieNode() {
-            }
-
-            public void add(String word) {
-                TrieNode cur = this;
-                for (int i = 0; i < word.length(); i++) {
-                    char c = word.charAt(i);
-                    if (cur.children[c - 'a'] == null) {
-                        cur.children[c - 'a'] = new TrieNode();
-                    }
-                    cur = cur.children[c - 'a'];
+        public void add(TrieNode ndoe, String word) {
+            for (int i = 0; i < word.length(); i++) {
+                char c = word.charAt(i);
+                if (ndoe.children[c - 'a'] == null) {
+                    ndoe.children[c - 'a'] = new TrieNode();
                 }
-                cur.end = true;
+                ndoe = ndoe.children[c - 'a'];
             }
+            ndoe.end = true;
+        }
 
-            public boolean find(char[] chars) {
-                TrieNode cur = this;
-                for (char c : chars) {
-                    if (cur.children[c - 'a'] == null) {
-                        return false;
-                    }
-                    cur = cur.children[c - 'a'];
+        public boolean find(TrieNode node, char[] chars) {
+            for (char c : chars) {
+                if (node.children[c - 'a'] == null) {
+                    return false;
                 }
-                return cur.end;
+                node = node.children[c - 'a'];
             }
+            return node.end;
         }
 
         public MagicDictionary() {
@@ -104,7 +99,7 @@ public class ImplementMagicDictionary_Six76 {
 
         public void buildDict(String[] dictionary) {
             for (String word : dictionary) {
-                root.add(word);
+                add(root, word);
             }
         }
 
@@ -116,7 +111,7 @@ public class ImplementMagicDictionary_Six76 {
                     }
                     char[] chars = searchWord.toCharArray();
                     chars[i] = (char) ('a' + j);
-                    if (root.find(chars)) {
+                    if (find(root, chars)) {
                         return true;
                     }
                 }

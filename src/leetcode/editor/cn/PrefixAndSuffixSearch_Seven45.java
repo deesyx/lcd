@@ -55,33 +55,31 @@ public class PrefixAndSuffixSearch_Seven45 {
         class TrieNode {
             TrieNode[] children = new TrieNode[26];
             List<Integer> idxs = new ArrayList<>();
+        }
 
-            public void add(String word, int index, boolean isTurn) {
-                TrieNode cur = this;
-                cur.idxs.add(index);
-                int n = word.length();
-                for (int i = isTurn ? n - 1 : 0; i >= 0 && i < n; i += isTurn ? -1 : 1) {
-                    char c = word.charAt(i);
-                    if (cur.children[c - 'a'] == null) {
-                        cur.children[c - 'a'] = new TrieNode();
-                    }
-                    cur = cur.children[c - 'a'];
-                    cur.idxs.add(index);
+        public void add(TrieNode node, String word, int index, boolean isTurn) {
+            node.idxs.add(index);
+            int n = word.length();
+            for (int i = isTurn ? n - 1 : 0; i >= 0 && i < n; i += isTurn ? -1 : 1) {
+                char c = word.charAt(i);
+                if (node.children[c - 'a'] == null) {
+                    node.children[c - 'a'] = new TrieNode();
                 }
+                node = node.children[c - 'a'];
+                node.idxs.add(index);
             }
+        }
 
-            public List<Integer> find(String s, boolean isTurn) {
-                TrieNode cur = this;
-                int n = s.length();
-                for (int i = isTurn ? n - 1 : 0; i >= 0 && i < n; i += isTurn ? -1 : 1) {
-                    char c = s.charAt(i);
-                    if (cur.children[c - 'a'] == null) {
-                        return Collections.emptyList();
-                    }
-                    cur = cur.children[c - 'a'];
+        public List<Integer> find(TrieNode node, String s, boolean isTurn) {
+            int n = s.length();
+            for (int i = isTurn ? n - 1 : 0; i >= 0 && i < n; i += isTurn ? -1 : 1) {
+                char c = s.charAt(i);
+                if (node.children[c - 'a'] == null) {
+                    return Collections.emptyList();
                 }
-                return cur.idxs;
+                node = node.children[c - 'a'];
             }
+            return node.idxs;
         }
 
         private TrieNode t1 = new TrieNode();
@@ -89,17 +87,17 @@ public class PrefixAndSuffixSearch_Seven45 {
 
         public WordFilter(String[] words) {
             for (int i = 0; i < words.length; i++) {
-                t1.add(words[i], i, false);
-                t2.add(words[i], i, true);
+                add(t1, words[i], i, false);
+                add(t2, words[i], i, true);
             }
         }
 
         public int f(String pref, String suff) {
-            List<Integer> ans1 = t1.find(pref, false);
+            List<Integer> ans1 = find(t1, pref, false);
             if (ans1.isEmpty()) {
                 return -1;
             }
-            List<Integer> ans2 = t2.find(suff, true);
+            List<Integer> ans2 = find(t2, suff, true);
             if (ans2.isEmpty()) {
                 return -1;
             }

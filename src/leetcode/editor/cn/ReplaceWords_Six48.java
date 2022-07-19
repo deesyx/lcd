@@ -61,48 +61,43 @@ public class ReplaceWords_Six48 {
         private class TrieNode {
             int index = -1;
             TrieNode[] children = new TrieNode[26];
+        }
 
-            public TrieNode() {
-            }
-
-            public void add(String word, int index) {
-                TrieNode cur = this;
-                for (int i = 0; i < word.length(); i++) {
-                    char c = word.charAt(i);
-                    if (cur.children[c - 'a'] == null) {
-                        cur.children[c - 'a'] = new TrieNode();
-                    }
-                    cur = cur.children[c - 'a'];
+        public void add(TrieNode node, String word, int index) {
+            for (int i = 0; i < word.length(); i++) {
+                char c = word.charAt(i);
+                if (node.children[c - 'a'] == null) {
+                    node.children[c - 'a'] = new TrieNode();
                 }
-                cur.index = index;
+                node = node.children[c - 'a'];
             }
+            node.index = index;
+        }
 
-            public int find(String s) {
-                TrieNode cur = this;
-                for (int i = 0; i < s.length(); i++) {
-                    char c = s.charAt(i);
-                    if (cur.index != -1) {
-                        return cur.index;
-                    }
-                    if (cur.children[c - 'a'] == null) {
-                        return -1;
-                    }
-                    cur = cur.children[c - 'a'];
+        public int find(TrieNode node, String s) {
+            for (int i = 0; i < s.length(); i++) {
+                char c = s.charAt(i);
+                if (node.index != -1) {
+                    return node.index;
                 }
-                return -1;
+                if (node.children[c - 'a'] == null) {
+                    return -1;
+                }
+                node = node.children[c - 'a'];
             }
+            return -1;
         }
 
         public String replaceWords(List<String> dictionary, String sentence) {
             TrieNode root = new TrieNode();
             for (int i = 0; i < dictionary.size(); i++) {
-                root.add(dictionary.get(i), i);
+                add(root, dictionary.get(i), i);
             }
 
             String[] sen = sentence.split(" ");
             StringBuilder ans = new StringBuilder();
             for (int i = 0; i < sen.length; i++) {
-                int index = root.find(sen[i]);
+                int index = find(root, sen[i]);
                 if (index != -1) {
                     ans.append(dictionary.get(index));
                 } else {
