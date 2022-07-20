@@ -872,6 +872,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Shift2dGrid_One260.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Shift2dGrid_One260.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1260" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Shift2dGrid_One260.java" />
+              <option name="titleSlug" value="shift-2d-grid" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ShortestSubarrayWithSumAtLeastK_Eight62.java">
           <value>
             <LeetcodeEditor>
