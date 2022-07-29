@@ -1136,6 +1136,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ValidSquare_Five93.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ValidSquare_Five93.md" />
+              <option name="frontendQuestionId" value="leetcode.cn593" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ValidSquare_Five93.java" />
+              <option name="titleSlug" value="valid-square" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ValidateStackSequences_Nine46.java">
           <value>
             <LeetcodeEditor>
