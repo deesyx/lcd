@@ -971,6 +971,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ReformatTheString_One417.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ReformatTheString_One417.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1417" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ReformatTheString_One417.java" />
+              <option name="titleSlug" value="reformat-the-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RemoveOutermostParentheses_One021.java">
           <value>
             <LeetcodeEditor>
