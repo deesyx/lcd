@@ -476,6 +476,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/GroupThePeopleGivenTheGroupSizeTheyBelongTo_One282.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/GroupThePeopleGivenTheGroupSizeTheyBelongTo_One282.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1282" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/GroupThePeopleGivenTheGroupSizeTheyBelongTo_One282.java" />
+              <option name="titleSlug" value="group-the-people-given-the-group-size-they-belong-to" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/GuPiaoDeZuiDaLiRunLcof_剑指Offer63.java">
           <value>
             <LeetcodeEditor>
