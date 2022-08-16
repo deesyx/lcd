@@ -190,6 +190,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DesignAnOrderedStream_One656.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/DesignAnOrderedStream_One656.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1656" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DesignAnOrderedStream_One656.java" />
+              <option name="titleSlug" value="design-an-ordered-stream" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DesignCircularDeque_Six41.java">
           <value>
             <LeetcodeEditor>
