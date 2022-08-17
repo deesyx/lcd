@@ -168,6 +168,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DeepestLeavesSum_One302.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/DeepestLeavesSum_One302.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1302" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DeepestLeavesSum_One302.java" />
+              <option name="titleSlug" value="deepest-leaves-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DefangingAnIpAddress_One108.java">
           <value>
             <LeetcodeEditor>
