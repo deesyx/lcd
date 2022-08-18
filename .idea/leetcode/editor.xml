@@ -718,6 +718,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumEqualFrequency_One224.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MaximumEqualFrequency_One224.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1224" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumEqualFrequency_One224.java" />
+              <option name="titleSlug" value="maximum-equal-frequency" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumLengthOfRepeatedSubarray_Seven18.java">
           <value>
             <LeetcodeEditor>
