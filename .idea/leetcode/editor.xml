@@ -960,6 +960,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PrintBinaryTree_Six55.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/PrintBinaryTree_Six55.md" />
+              <option name="frontendQuestionId" value="leetcode.cn655" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PrintBinaryTree_Six55.java" />
+              <option name="titleSlug" value="print-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PrintFoobarAlternately_One115.java">
           <value>
             <LeetcodeEditor>
