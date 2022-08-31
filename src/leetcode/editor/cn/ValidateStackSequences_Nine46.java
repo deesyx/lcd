@@ -1,4 +1,5 @@
-//给定 pushed 和 popped 两个序列，每个序列中的 值都不重复，只有当它们可能是在最初空栈上进行的推入 push 和弹出 pop 操作序列的结果时
+//给定 pushed 和 popped 两个序列，每个序列中的 值都不重复，只有当它们可能是在最初空栈上进行的推入 push 和弹出 pop
+// 操作序列的结果时
 //，返回 true；否则，返回 false 。 
 //
 // 
@@ -48,12 +49,12 @@ public class ValidateStackSequences_Nine46 {
     class Solution {
         public boolean validateStackSequences(int[] pushed, int[] popped) {
             Stack<Integer> s = new Stack<>();
-            int i = 0;
+            int popIndex = 0;
             for (int push : pushed) {
                 s.push(push);
-                while (!s.isEmpty() && s.peek() == popped[i]) {
+                while (!s.isEmpty() && s.peek() == popped[popIndex]) {
                     s.pop();
-                    i++;
+                    popIndex++;
                 }
             }
             return s.isEmpty();
