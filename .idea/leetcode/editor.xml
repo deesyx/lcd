@@ -179,6 +179,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CrawlerLogFolder_One598.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CrawlerLogFolder_One598.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1598" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CrawlerLogFolder_One598.java" />
+              <option name="titleSlug" value="crawler-log-folder" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DeepestLeavesSum_One302.java">
           <value>
             <LeetcodeEditor>
