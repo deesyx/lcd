@@ -850,6 +850,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumSwap_Six70.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MaximumSwap_Six70.md" />
+              <option name="frontendQuestionId" value="leetcode.cn670" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumSwap_Six70.java" />
+              <option name="titleSlug" value="maximum-swap" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MinStack_One55.java">
           <value>
             <LeetcodeEditor>
