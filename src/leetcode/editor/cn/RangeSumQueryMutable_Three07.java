@@ -45,6 +45,7 @@
 // 调用 update 和 sumRange 方法次数不大于 3 * 10⁴ 
 // 
 // Related Topics 设计 树状数组 线段树 数组 👍 524 👎 0
+// my线段树
 
 
 package leetcode.editor.cn;
@@ -81,13 +82,13 @@ public class RangeSumQueryMutable_Three07 {
         }
 
         private void update(SegmentNode node, int start, int end, int left, int right, int val) {
+            pushDown(node);
             if (left <= start && end <= right) {
                 node.val = val;
                 return;
             }
 
             int mid = (start + end) / 2;
-            pushDown(node);
             if (left <= mid) {
                 update(node.left, start, mid, left, right, val);
             }
