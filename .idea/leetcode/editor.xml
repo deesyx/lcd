@@ -1334,6 +1334,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SortArrayByIncreasingFrequency_One636.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SortArrayByIncreasingFrequency_One636.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1636" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SortArrayByIncreasingFrequency_One636.java" />
+              <option name="titleSlug" value="sort-array-by-increasing-frequency" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SortArrayByParity_Nine05.java">
           <value>
             <LeetcodeEditor>
