@@ -267,6 +267,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DesignLinkedList_Seven07.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/DesignLinkedList_Seven07.md" />
+              <option name="frontendQuestionId" value="leetcode.cn707" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DesignLinkedList_Seven07.java" />
+              <option name="titleSlug" value="design-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DiStringMatch_Nine42.java">
           <value>
             <LeetcodeEditor>
