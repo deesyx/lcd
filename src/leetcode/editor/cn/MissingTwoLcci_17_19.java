@@ -22,9 +22,9 @@
 
 package leetcode.editor.cn;
 
-public class MissingTwoLcci_面试题17_19 {
+public class MissingTwoLcci_17_19 {
     public static void main(String[] args) {
-        Solution solution = new MissingTwoLcci_面试题17_19().new Solution();
+        Solution solution = new MissingTwoLcci_17_19().new Solution();
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)
