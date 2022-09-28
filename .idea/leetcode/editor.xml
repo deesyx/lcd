@@ -102,6 +102,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckPermutationLcci_面试题01.02.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CheckPermutationLcci_面试题01.02.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 01.02" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CheckPermutationLcci_面试题01.02.java" />
+              <option name="titleSlug" value="check-permutation-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CompleteBinaryTreeInserter_Nine19.java">
           <value>
             <LeetcodeEditor>
@@ -561,6 +572,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/GenerateAStringWithCharactersThatHaveOddCounts_One374.java" />
               <option name="titleSlug" value="generate-a-string-with-characters-that-have-odd-counts" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/GetKthMagicNumberLcci_面试题17.09.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/GetKthMagicNumberLcci_面试题17.09.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 17.09" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/GetKthMagicNumberLcci_面试题17.09.java" />
+              <option name="titleSlug" value="get-kth-magic-number-lcci" />
             </LeetcodeEditor>
           </value>
         </entry>
