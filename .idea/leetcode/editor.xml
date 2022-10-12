@@ -740,6 +740,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LinkedListComponents_Eight17.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/LinkedListComponents_Eight17.md" />
+              <option name="frontendQuestionId" value="leetcode.cn817" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LinkedListComponents_Eight17.java" />
+              <option name="titleSlug" value="linked-list-components" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestCommonSubsequence_One143.java">
           <value>
             <LeetcodeEditor>
