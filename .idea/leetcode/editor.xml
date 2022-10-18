@@ -1136,6 +1136,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumbersAtMostNGivenDigitSet_Nine02.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/NumbersAtMostNGivenDigitSet_Nine02.md" />
+              <option name="frontendQuestionId" value="leetcode.cn902" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NumbersAtMostNGivenDigitSet_Nine02.java" />
+              <option name="titleSlug" value="numbers-at-most-n-given-digit-set" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/OneAwayLcci_面试题01.05.java">
           <value>
             <LeetcodeEditor>
