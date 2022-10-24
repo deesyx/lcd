@@ -993,6 +993,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MergeStringsAlternately_One768.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MergeStringsAlternately_One768.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1768" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MergeStringsAlternately_One768.java" />
+              <option name="titleSlug" value="merge-strings-alternately" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MinStack_One55.java">
           <value>
             <LeetcodeEditor>
@@ -1199,6 +1210,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PacificAtlanticWaterFlow_Four17.java" />
               <option name="titleSlug" value="pacific-atlantic-water-flow" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PartitionArrayIntoDisjointIntervals_Nine15.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/PartitionArrayIntoDisjointIntervals_Nine15.md" />
+              <option name="frontendQuestionId" value="leetcode.cn915" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PartitionArrayIntoDisjointIntervals_Nine15.java" />
+              <option name="titleSlug" value="partition-array-into-disjoint-intervals" />
             </LeetcodeEditor>
           </value>
         </entry>
