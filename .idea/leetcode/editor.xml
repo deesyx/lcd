@@ -1070,6 +1070,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumXorAfterOperations_Two317.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MaximumXorAfterOperations_Two317.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2317" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumXorAfterOperations_Two317.java" />
+              <option name="titleSlug" value="maximum-xor-after-operations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MeanOfArrayAfterRemovingSomeElements_One619.java">
           <value>
             <LeetcodeEditor>
@@ -1760,6 +1771,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfSubarrayMinimums_Nine07.java" />
               <option name="titleSlug" value="sum-of-subarray-minimums" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfSubarrayRanges_Two104.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SumOfSubarrayRanges_Two104.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2104" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfSubarrayRanges_Two104.java" />
+              <option name="titleSlug" value="sum-of-subarray-ranges" />
             </LeetcodeEditor>
           </value>
         </entry>
