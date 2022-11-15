@@ -1070,6 +1070,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumUnitsOnATruck_One710.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MaximumUnitsOnATruck_One710.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1710" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumUnitsOnATruck_One710.java" />
+              <option name="titleSlug" value="maximum-units-on-a-truck" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumWidthRamp_Nine62.java">
           <value>
             <LeetcodeEditor>
