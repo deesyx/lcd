@@ -1290,6 +1290,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfMatchingSubsequences_Seven92.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/NumberOfMatchingSubsequences_Seven92.md" />
+              <option name="frontendQuestionId" value="leetcode.cn792" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfMatchingSubsequences_Seven92.java" />
+              <option name="titleSlug" value="number-of-matching-subsequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfRecentCalls_Nine33.java">
           <value>
             <LeetcodeEditor>
