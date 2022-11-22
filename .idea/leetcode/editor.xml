@@ -1312,6 +1312,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NthMagicalNumber_Eight78.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/NthMagicalNumber_Eight78.md" />
+              <option name="frontendQuestionId" value="leetcode.cn878" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NthMagicalNumber_Eight78.java" />
+              <option name="titleSlug" value="nth-magical-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfMatchingSubsequences_Seven92.java">
           <value>
             <LeetcodeEditor>
