@@ -905,6 +905,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LargestSumOfAverages_Eight13.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/LargestSumOfAverages_Eight13.md" />
+              <option name="frontendQuestionId" value="leetcode.cn813" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LargestSumOfAverages_Eight13.java" />
+              <option name="titleSlug" value="largest-sum-of-averages" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LinkedListComponents_Eight17.java">
           <value>
             <LeetcodeEditor>
