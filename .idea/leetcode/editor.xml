@@ -663,6 +663,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheKBeautyOfANumber_Two269.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/FindTheKBeautyOfANumber_Two269.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2269" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheKBeautyOfANumber_Two269.java" />
+              <option name="titleSlug" value="find-the-k-beauty-of-a-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheStudentThatWillReplaceTheChalk_One894.java">
           <value>
             <LeetcodeEditor>
