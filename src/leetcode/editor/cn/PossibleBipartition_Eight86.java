@@ -74,8 +74,8 @@ public class PossibleBipartition_Eight86 {
 
             int find(int x) { // 找x的根节点
                 while (parent[x] != x) {
-                    parent[x] = parent[parent[x]]; // 状态压缩，x的parent值变为x的parent的parent
-                    x = parent[x];
+                    parent[x] = parent[parent[x]]; // 2. 状态压缩，x的parent变为x的parent的parent
+                    x = parent[x];// 1. x变成他的parent
                 }
                 return x;
             }
