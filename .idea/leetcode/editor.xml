@@ -1422,6 +1422,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfDifferentIntegersInAString_One805.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/NumberOfDifferentIntegersInAString_One805.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1805" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfDifferentIntegersInAString_One805.java" />
+              <option name="titleSlug" value="number-of-different-integers-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfMatchingSubsequences_Seven92.java">
           <value>
             <LeetcodeEditor>
