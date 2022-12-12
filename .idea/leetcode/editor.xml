@@ -2071,6 +2071,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfBeautyOfAllSubstrings_One781.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SumOfBeautyOfAllSubstrings_One781.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1781" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfBeautyOfAllSubstrings_One781.java" />
+              <option name="titleSlug" value="sum-of-beauty-of-all-substrings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfRootToLeafBinaryNumbers_One022.java">
           <value>
             <LeetcodeEditor>
