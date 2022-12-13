@@ -157,6 +157,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfTheSentenceIsPangram_One832.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CheckIfTheSentenceIsPangram_One832.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1832" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfTheSentenceIsPangram_One832.java" />
+              <option name="titleSlug" value="check-if-the-sentence-is-pangram" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfTwoStringArraysAreEquivalent_One662.java">
           <value>
             <LeetcodeEditor>
@@ -814,6 +825,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/GouJianChengJiShuZuLcof_剑指Offer66.java" />
               <option name="titleSlug" value="gou-jian-cheng-ji-shu-zu-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/GroupAnagrams_Four9.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/GroupAnagrams_Four9.md" />
+              <option name="frontendQuestionId" value="leetcode.cn49" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/GroupAnagrams_Four9.java" />
+              <option name="titleSlug" value="group-anagrams" />
             </LeetcodeEditor>
           </value>
         </entry>
