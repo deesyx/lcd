@@ -190,6 +190,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckingExistenceOfEdgeLengthLimitedPaths_One697.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CheckingExistenceOfEdgeLengthLimitedPaths_One697.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1697" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CheckingExistenceOfEdgeLengthLimitedPaths_One697.java" />
+              <option name="titleSlug" value="checking-existence-of-edge-length-limited-paths" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ClosestDessertCost_One774.java">
           <value>
             <LeetcodeEditor>
