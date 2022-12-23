@@ -674,6 +674,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FinalValueOfVariableAfterPerformingOperations_Two011.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/FinalValueOfVariableAfterPerformingOperations_Two011.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2011" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FinalValueOfVariableAfterPerformingOperations_Two011.java" />
+              <option name="titleSlug" value="final-value-of-variable-after-performing-operations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindBottomLeftTreeValue_Five13.java">
           <value>
             <LeetcodeEditor>
