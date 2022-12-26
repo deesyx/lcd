@@ -300,6 +300,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountNumberOfHomogenousSubstrings_One759.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CountNumberOfHomogenousSubstrings_One759.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1759" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountNumberOfHomogenousSubstrings_One759.java" />
+              <option name="titleSlug" value="count-number-of-homogenous-substrings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountOfSmallerNumbersAfterSelf_Three15.java">
           <value>
             <LeetcodeEditor>
