@@ -333,6 +333,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountPairsWithXorInARange_One803.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CountPairsWithXorInARange_One803.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1803" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountPairsWithXorInARange_One803.java" />
+              <option name="titleSlug" value="count-pairs-with-xor-in-a-range" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountPrimes_Two04.java">
           <value>
             <LeetcodeEditor>
@@ -1991,6 +2002,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RearrangeSpacesBetweenWords_One592.java" />
               <option name="titleSlug" value="rearrange-spaces-between-words" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RecoverBinarySearchTree_Nine9.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/RecoverBinarySearchTree_Nine9.md" />
+              <option name="frontendQuestionId" value="leetcode.cn99" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RecoverBinarySearchTree_Nine9.java" />
+              <option name="titleSlug" value="recover-binary-search-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
