@@ -311,6 +311,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountIntegersWithEvenDigitSum_Two180.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CountIntegersWithEvenDigitSum_Two180.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2180" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountIntegersWithEvenDigitSum_Two180.java" />
+              <option name="titleSlug" value="count-integers-with-even-digit-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountNumberOfHomogenousSubstrings_One759.java">
           <value>
             <LeetcodeEditor>
