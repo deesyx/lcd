@@ -80,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CanMakePalindromeFromSubstring_One177.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CanMakePalindromeFromSubstring_One177.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1177" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CanMakePalindromeFromSubstring_One177.java" />
+              <option name="titleSlug" value="can-make-palindrome-from-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CatAndMouseIi_One728.java">
           <value>
             <LeetcodeEditor>
@@ -407,6 +418,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountingWordsWithAGivenPrefix_Two185.java" />
               <option name="titleSlug" value="counting-words-with-a-given-prefix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CrackingTheSafe_Seven53.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CrackingTheSafe_Seven53.md" />
+              <option name="frontendQuestionId" value="leetcode.cn753" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CrackingTheSafe_Seven53.java" />
+              <option name="titleSlug" value="cracking-the-safe" />
             </LeetcodeEditor>
           </value>
         </entry>
