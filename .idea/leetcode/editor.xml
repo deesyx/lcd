@@ -718,6 +718,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/EvaluateTheBracketPairsOfAString_One807.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/EvaluateTheBracketPairsOfAString_One807.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1807" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/EvaluateTheBracketPairsOfAString_One807.java" />
+              <option name="titleSlug" value="evaluate-the-bracket-pairs-of-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ExamRoom_Eight55.java">
           <value>
             <LeetcodeEditor>
@@ -1749,6 +1760,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MyCalendarIi_Seven31.java" />
               <option name="titleSlug" value="my-calendar-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NextPermutation_Three1.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/NextPermutation_Three1.md" />
+              <option name="frontendQuestionId" value="leetcode.cn31" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NextPermutation_Three1.java" />
+              <option name="titleSlug" value="next-permutation" />
             </LeetcodeEditor>
           </value>
         </entry>
