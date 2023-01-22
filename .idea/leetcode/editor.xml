@@ -2852,6 +2852,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/WordBreak_One39.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/WordBreak_One39.md" />
+              <option name="frontendQuestionId" value="leetcode.cn139" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/WordBreak_One39.java" />
+              <option name="titleSlug" value="word-break" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/XuLieHuaErChaShuLcof_剑指Offer37.java">
           <value>
             <LeetcodeEditor>
