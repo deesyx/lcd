@@ -80,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CalculateAmountPaidInTaxes_Two303.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CalculateAmountPaidInTaxes_Two303.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2303" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CalculateAmountPaidInTaxes_Two303.java" />
+              <option name="titleSlug" value="calculate-amount-paid-in-taxes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CanMakePalindromeFromSubstring_One177.java">
           <value>
             <LeetcodeEditor>
