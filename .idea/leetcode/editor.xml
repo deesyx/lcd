@@ -2126,6 +2126,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/QueriesOnNumberOfPointsInsideACircle_One828.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/QueriesOnNumberOfPointsInsideACircle_One828.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1828" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/QueriesOnNumberOfPointsInsideACircle_One828.java" />
+              <option name="titleSlug" value="queries-on-number-of-points-inside-a-circle" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RandomPickIndex_Three98.java">
           <value>
             <LeetcodeEditor>
