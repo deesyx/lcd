@@ -344,6 +344,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountAsterisks_Two315.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CountAsterisks_Two315.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2315" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountAsterisks_Two315.java" />
+              <option name="titleSlug" value="count-asterisks" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountDifferentPalindromicSubsequences_Seven30.java">
           <value>
             <LeetcodeEditor>
