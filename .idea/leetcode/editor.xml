@@ -1576,6 +1576,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MergeInBetweenLinkedLists_One669.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MergeInBetweenLinkedLists_One669.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1669" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MergeInBetweenLinkedLists_One669.java" />
+              <option name="titleSlug" value="merge-in-between-linked-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MergeStringsAlternately_One768.java">
           <value>
             <LeetcodeEditor>
@@ -3058,6 +3069,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ZiFuChuanDePaiLieLcof_剑指Offer38.java" />
               <option name="titleSlug" value="zi-fu-chuan-de-pai-lie-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ZuiChangBuHanZhongFuZiFuDeZiZiFuChuanLcof_剑指Offer48.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ZuiChangBuHanZhongFuZiFuDeZiZiFuChuanLcof_剑指Offer48.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 48" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ZuiChangBuHanZhongFuZiFuDeZiZiFuChuanLcof_剑指Offer48.java" />
+              <option name="titleSlug" value="zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>

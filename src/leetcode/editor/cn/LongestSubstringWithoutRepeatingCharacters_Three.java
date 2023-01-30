@@ -42,7 +42,9 @@
 package leetcode.editor.cn;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 public class LongestSubstringWithoutRepeatingCharacters_Three {
     public static void main(String[] args) {
@@ -53,23 +55,24 @@ public class LongestSubstringWithoutRepeatingCharacters_Three {
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
         public int lengthOfLongestSubstring(String s) {
-            Map<Character, Integer> windows = new HashMap<>();
-
+            Set<Character> m = new HashSet<>();
             int left = 0;
             int right = 0;
-            int len = 0;
+            int count = 0;
             while (right < s.length()) {
-                char c = s.charAt(right++);
-                windows.put(c, windows.getOrDefault(c, 0) + 1);
-                while (windows.get(c) > 1) {
-                    char d = s.charAt(left++);
-                    if (windows.containsKey(d)) {
-                        windows.put(d, windows.get(d) - 1);
+                char in = s.charAt(right++);
+                if (!m.contains(in)) {
+                    m.add(in);
+                    count = Math.max(count, right - left);
+                } else {
+                    while (s.charAt(left) != in) {
+                        m.remove(s.charAt(left));
+                        left++;
                     }
+                    left++;
                 }
-                len = Math.max(len, right - left);
             }
-            return len;
+            return count;
         }
     }
 //leetcode submit region end(Prohibit modification and deletion)
