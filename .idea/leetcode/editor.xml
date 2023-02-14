@@ -1466,6 +1466,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LetterCombinationsOfAPhoneNumber_One7.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/LetterCombinationsOfAPhoneNumber_One7.md" />
+              <option name="frontendQuestionId" value="leetcode.cn17" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LetterCombinationsOfAPhoneNumber_One7.java" />
+              <option name="titleSlug" value="letter-combinations-of-a-phone-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LinkedListComponents_Eight17.java">
           <value>
             <LeetcodeEditor>
@@ -2750,6 +2761,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RomanToInteger_One3.java" />
               <option name="titleSlug" value="roman-to-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RotateImage_Four8.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/RotateImage_Four8.md" />
+              <option name="frontendQuestionId" value="leetcode.cn48" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RotateImage_Four8.java" />
+              <option name="titleSlug" value="rotate-image" />
             </LeetcodeEditor>
           </value>
         </entry>
