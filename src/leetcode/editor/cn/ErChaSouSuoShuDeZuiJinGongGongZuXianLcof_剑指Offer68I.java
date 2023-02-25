@@ -66,13 +66,25 @@ public class ErChaSouSuoShuDeZuiJinGongGongZuXianLcof_剑指Offer68I {
                 return null;
             }
 
-            if (p.val < node.val && q.val < node.val) {
-                return dfs(node.left, p, q);
-            } else if (p.val > node.val && q.val > node.val) {
-                return dfs(node.right, p, q);
-            } else {
+            if (node == p) {
+                return p;
+            }
+            if (node == q) {
+                return q;
+            }
+
+            TreeNode left = dfs(node.left, p, q);
+            TreeNode right = dfs(node.right, p, q);
+
+            if (left != null && right != null) {
                 return node;
             }
+
+            if (left == null && right == null) {
+                return null;
+            }
+
+            return left != null ? left : right;
         }
     }
 //leetcode submit region end(Prohibit modification and deletion)
