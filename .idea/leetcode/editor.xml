@@ -1917,6 +1917,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MergeSimilarItems_Two363.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MergeSimilarItems_Two363.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2363" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MergeSimilarItems_Two363.java" />
+              <option name="titleSlug" value="merge-similar-items" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MergeStringsAlternately_One768.java">
           <value>
             <LeetcodeEditor>
