@@ -49,19 +49,18 @@ public class LongestConsecutiveSequence_One28 {
 
             int ans = 0;
             for (int n : m) {
-                if (m.contains(n - 1)) {
+                int cur = n;
+                if (m.contains(cur - 1)) {
                     continue;
                 }
 
-                int cur = n;
                 int count = 1;
                 while (m.contains(cur + 1)) {
-                    cur++;
                     count++;
+                    cur = cur + 1;
                 }
                 ans = Math.max(ans, count);
             }
-
             return ans;
         }
     }

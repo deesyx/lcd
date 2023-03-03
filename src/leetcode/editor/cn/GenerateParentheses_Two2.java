@@ -45,6 +45,7 @@ public class GenerateParentheses_Two2 {
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
         public List<String> generateParenthesis(int n) {
+
 //            int[] dp = new int[n + 1];
 //            dp[0] = 1;
 //            dp[1] = 1;
@@ -74,7 +75,7 @@ public class GenerateParentheses_Two2 {
 //                        }
 //                    }
 //                }
-//                dp.add(new ArrayList<>(path));
+//                dp.add(path);
 //            }
 //            return dp.get(n);
 

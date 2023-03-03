@@ -25,6 +25,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/AddTwoNumbers_Two.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/AddTwoNumbers_Two.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AddTwoNumbers_Two.java" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/AlertUsingSameKeyCardThreeOrMoreTimesInAOneHourPeriod_One604.java">
           <value>
             <LeetcodeEditor>
@@ -143,6 +154,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/BestTimeToBuyAndSellStock_One21.java" />
               <option name="titleSlug" value="best-time-to-buy-and-sell-stock" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BianryNumberToStringLcci_面试题05.02.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/BianryNumberToStringLcci_面试题05.02.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 05.02" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/BianryNumberToStringLcci_面试题05.02.java" />
+              <option name="titleSlug" value="bianry-number-to-string-lcci" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1672,6 +1694,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LowestCommonAncestorOfABinaryTree_Two36.java" />
               <option name="titleSlug" value="lowest-common-ancestor-of-a-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LruCache_One46.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/LruCache_One46.md" />
+              <option name="frontendQuestionId" value="leetcode.cn146" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LruCache_One46.java" />
+              <option name="titleSlug" value="lru-cache" />
             </LeetcodeEditor>
           </value>
         </entry>
