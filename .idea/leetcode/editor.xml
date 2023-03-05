@@ -1862,6 +1862,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumProfitOfOperatingACentennialWheel_One599.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MaximumProfitOfOperatingACentennialWheel_One599.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1599" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumProfitOfOperatingACentennialWheel_One599.java" />
+              <option name="titleSlug" value="maximum-profit-of-operating-a-centennial-wheel" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumRepeatingSubstring_One668.java">
           <value>
             <LeetcodeEditor>
@@ -3355,6 +3366,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfSubsequenceWidths_Eight91.java" />
               <option name="titleSlug" value="sum-of-subsequence-widths" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SwapAdjacentInLrString_Seven77.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SwapAdjacentInLrString_Seven77.md" />
+              <option name="frontendQuestionId" value="leetcode.cn777" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SwapAdjacentInLrString_Seven77.java" />
+              <option name="titleSlug" value="swap-adjacent-in-lr-string" />
             </LeetcodeEditor>
           </value>
         </entry>
