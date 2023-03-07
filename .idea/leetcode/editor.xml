@@ -3017,6 +3017,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SerializeAndDeserializeBinaryTree_Two97.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SerializeAndDeserializeBinaryTree_Two97.md" />
+              <option name="frontendQuestionId" value="leetcode.cn297" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SerializeAndDeserializeBinaryTree_Two97.java" />
+              <option name="titleSlug" value="serialize-and-deserialize-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SerializeAndDeserializeBst_Four49.java">
           <value>
             <LeetcodeEditor>
