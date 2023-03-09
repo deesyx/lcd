@@ -56,24 +56,22 @@ public class MinimumRecolorsToGetKConsecutiveBlackBlocks_Two379 {
         public int minimumRecolors(String blocks, int k) {
             int left = 0;
             int right = 0;
-            int n = blocks.length();
-            int ans = 0;
             int count = 0;
-            while (right < n) {
-                char c = blocks.charAt(right++);
-                if (c == 'B') {
+            int ans = k;
+            while (right < blocks.length()) {
+                char in = blocks.charAt(right++);
+                if (in == 'B') {
                     count++;
                 }
-
-                while (right - left > k) {
-                    char d = blocks.charAt(left++);
-                    if (d == 'B') {
+                while (right - left >= k) {
+                    ans = Math.min(ans, k - count);
+                    char out = blocks.charAt(left++);
+                    if (out == 'B') {
                         count--;
                     }
                 }
-                ans = Math.max(ans, count);
             }
-            return k - ans;
+            return ans;
         }
     }
 //leetcode submit region end(Prohibit modification and deletion)
