@@ -1224,6 +1224,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindValidMatrixGivenRowAndColumnSums_One605.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/FindValidMatrixGivenRowAndColumnSums_One605.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1605" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindValidMatrixGivenRowAndColumnSums_One605.java" />
+              <option name="titleSlug" value="find-valid-matrix-given-row-and-column-sums" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindingTheUsersActiveMinutes_One817.java">
           <value>
             <LeetcodeEditor>
