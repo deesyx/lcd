@@ -1598,6 +1598,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LexicographicallySmallestStringAfterApplyingOperations_One625.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/LexicographicallySmallestStringAfterApplyingOperations_One625.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1625" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LexicographicallySmallestStringAfterApplyingOperations_One625.java" />
+              <option name="titleSlug" value="lexicographically-smallest-string-after-applying-operations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LiWuDeZuiDaJieZhiLcof_剑指Offer47.java">
           <value>
             <LeetcodeEditor>
