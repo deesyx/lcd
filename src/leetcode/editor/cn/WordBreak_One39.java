@@ -57,20 +57,22 @@ public class WordBreak_One39 {
     class Solution {
 
         public boolean wordBreak(String s, List<String> wordDict) {
-            Set<String> words = new HashSet<>(wordDict);
-            boolean[] dp = new boolean[s.length() + 1];
+            Set<String> m = new HashSet<>(wordDict);
+            int n = s.length();
+            boolean[] dp = new boolean[n + 1];
             dp[0] = true;
 
-            for (int i = 1; i <= s.length(); i++) {
+            for (int i = 1; i <= n; i++) {
                 for (int j = 0; j < i; j++) {
-                    if (dp[j] && words.contains(s.substring(j, i))) {
+                    String postHalf = s.substring(j, i);
+                    if (dp[j] && m.contains(postHalf)) {
                         dp[i] = true;
                         break;
                     }
                 }
             }
 
-            return dp[s.length()];
+            return dp[n];
         }
     }
 //leetcode submit region end(Prohibit modification and deletion)
