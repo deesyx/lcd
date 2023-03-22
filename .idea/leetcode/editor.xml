@@ -124,6 +124,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BestTeamWithNoConflicts_One626.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/BestTeamWithNoConflicts_One626.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1626" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/BestTeamWithNoConflicts_One626.java" />
+              <option name="titleSlug" value="best-team-with-no-conflicts" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BestTimeToBuyAndSellStockIi_One22.java">
           <value>
             <LeetcodeEditor>
