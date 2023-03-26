@@ -1246,6 +1246,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindSubarraysWithEqualSum_Two395.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/FindSubarraysWithEqualSum_Two395.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2395" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindSubarraysWithEqualSum_Two395.java" />
+              <option name="titleSlug" value="find-subarrays-with-equal-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheDuplicateNumber_Two87.java">
           <value>
             <LeetcodeEditor>
@@ -1298,6 +1309,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindingTheUsersActiveMinutes_One817.java" />
               <option name="titleSlug" value="finding-the-users-active-minutes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Five69nqc_剑指OfferII035.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Five69nqc_剑指OfferII035.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer II 035" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Five69nqc_剑指OfferII035.java" />
+              <option name="titleSlug" value="569nqc" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1584,6 +1606,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/KDiffPairsInAnArray_Five32.java" />
               <option name="titleSlug" value="k-diff-pairs-in-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/KLl5u1_剑指OfferII006.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/KLl5u1_剑指OfferII006.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer II 006" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/KLl5u1_剑指OfferII006.java" />
+              <option name="titleSlug" value="kLl5u1" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3201,6 +3234,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SerializeAndDeserializeBst_Four49.java" />
               <option name="titleSlug" value="serialize-and-deserialize-bst" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Sfvd7V_剑指OfferII033.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Sfvd7V_剑指OfferII033.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer II 033" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Sfvd7V_剑指OfferII033.java" />
+              <option name="titleSlug" value="sfvd7V" />
             </LeetcodeEditor>
           </value>
         </entry>
