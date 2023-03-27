@@ -608,6 +608,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountSubstringsThatDifferByOneCharacter_One638.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CountSubstringsThatDifferByOneCharacter_One638.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1638" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountSubstringsThatDifferByOneCharacter_One638.java" />
+              <option name="titleSlug" value="count-substrings-that-differ-by-one-character" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountTheNumberOfConsistentStrings_One684.java">
           <value>
             <LeetcodeEditor>
