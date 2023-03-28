@@ -59,18 +59,19 @@ public class LongestIncreasingSubsequence_Three00 {
         // dp[i]表示以s[i]为结尾的最长递增子序列长度
         // dp[i]=max(dp[0],..dp[j])+1 s[j]<s[i] && j<i
         public int lengthOfLIS(int[] nums) {
-            int[] dp = new int[nums.length];
+            int n = nums.length;
+            int[] dp = new int[n];
             dp[0] = 1;
 
             int ans = 1;
-            for (int i = 1; i < dp.length; i++) {
-                int max = 0;
+            for (int i = 1; i < n; i++) {
+                int path = 0;
                 for (int j = 0; j < i; j++) {
-                    if (nums[j] < nums[i]) {
-                        max = Math.max(max, dp[j]);
+                    if (nums[i] > nums[j]) {
+                        path = Math.max(path, dp[j]);
                     }
                 }
-                dp[i] = max + 1;
+                dp[i] = path + 1;
                 ans = Math.max(ans, dp[i]);
             }
             return ans;
