@@ -608,6 +608,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountSortedVowelStrings_One641.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CountSortedVowelStrings_One641.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1641" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountSortedVowelStrings_One641.java" />
+              <option name="titleSlug" value="count-sorted-vowel-strings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountSubstringsThatDifferByOneCharacter_One638.java">
           <value>
             <LeetcodeEditor>
