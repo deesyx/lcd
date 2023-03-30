@@ -3875,6 +3875,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/WidestVerticalAreaBetweenTwoPointsContainingNoPoints_One637.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/WidestVerticalAreaBetweenTwoPointsContainingNoPoints_One637.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1637" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/WidestVerticalAreaBetweenTwoPointsContainingNoPoints_One637.java" />
+              <option name="titleSlug" value="widest-vertical-area-between-two-points-containing-no-points" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/WiggleSortIi_Three24.java">
           <value>
             <LeetcodeEditor>
