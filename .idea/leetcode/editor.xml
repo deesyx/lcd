@@ -2401,6 +2401,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumScoreTriangulationOfPolygon_One039.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MinimumScoreTriangulationOfPolygon_One039.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1039" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumScoreTriangulationOfPolygon_One039.java" />
+              <option name="titleSlug" value="minimum-score-triangulation-of-polygon" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumSidewayJumps_One824.java">
           <value>
             <LeetcodeEditor>
@@ -2519,6 +2530,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NthMagicalNumber_Eight78.java" />
               <option name="titleSlug" value="nth-magical-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfArithmeticTriplets_Two367.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/NumberOfArithmeticTriplets_Two367.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2367" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfArithmeticTriplets_Two367.java" />
+              <option name="titleSlug" value="number-of-arithmetic-triplets" />
             </LeetcodeEditor>
           </value>
         </entry>
