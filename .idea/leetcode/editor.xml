@@ -2544,6 +2544,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfCommonFactors_Two427.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/NumberOfCommonFactors_Two427.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2427" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfCommonFactors_Two427.java" />
+              <option name="titleSlug" value="number-of-common-factors" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfDifferentIntegersInAString_One805.java">
           <value>
             <LeetcodeEditor>
