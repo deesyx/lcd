@@ -74,8 +74,8 @@ public class MovingStonesUntilConsecutiveIi_One040 {
             int max = s1 - s2;
 
             int min = max;
+            int j = 0;
             for (int i = 0; i < n; i++) {
-                int j = 0;
                 // j+1<n使得循环结束的时候保证j<n
                 while (j + 1 < n && stones[j + 1] - stones[i] + 1 <= n) {
                     j++;
