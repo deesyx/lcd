@@ -37,11 +37,11 @@ public class PartitionEqualSubsetSum_Four16 {
 
     //leetcode submit region begin(Prohibit modification and deletion)
 
-    // dp[i][j]表示是否存在nums[0..i]中选取若干个数（可以选取0个）使得和为j
-    // dp[i][0]=true
-    // dp[0][j]=false 但dp[0][nums[0]]=true
-    // dp[i][j]=dp[i-1][j](不选nums[i]) || dp[i-1][j-nums[i]](选nums[i]) j>=nums[i]
-    // dp[i][j]=dp[i-1][j](不选nums[i]) j<nums[i]
+    /**
+     * dp[i][j]表示从nums中选择前0到i个元素使得和为j的个数
+     * dp[i][j]=dp[i-1][j](不选i) || dp[i-1][j-nums[i]](选了i) j>=nums[i]
+     * dp[i][j]=dp[i-1][j] j<nums[i]
+     */
     class Solution {
         public boolean canPartition(int[] nums) {
             int n = nums.length;
@@ -63,23 +63,20 @@ public class PartitionEqualSubsetSum_Four16 {
                 return false;
             }
 
-            boolean[][] dp = new boolean[n][target + 1];
-            for (int i = 0; i < n; i++) {
-                dp[i][0] = true;
-            }
-            dp[0][nums[0]] = true;
+            boolean[][] dp = new boolean[n + 1][target + 1];
+            dp[0][0] = true;
 
-            for (int i = 1; i < n; i++) {
-                for (int j = 1; j <= target; j++) {
-                    if (j < nums[i]) {
+            for (int i = 1; i <= n; i++) {
+                for (int j = 0; j <= target; j++) {
+                    if (j < nums[i - 1]) {
                         dp[i][j] = dp[i - 1][j];
                     } else {
-                        dp[i][j] = dp[i - 1][j] || dp[i - 1][j - nums[i]];
+                        dp[i][j] = dp[i - 1][j] || dp[i - 1][j - nums[i - 1]];
                     }
                 }
             }
 
-            return dp[n - 1][target];
+            return dp[n][target];
         }
     }
 //leetcode submit region end(Prohibit modification and deletion)

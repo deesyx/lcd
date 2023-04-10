@@ -2533,6 +2533,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NUPfPr_剑指OfferII101.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/NUPfPr_剑指OfferII101.md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer II 101" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NUPfPr_剑指OfferII101.java" />
+              <option name="titleSlug" value="NUPfPr" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NextPermutation_Three1.java">
           <value>
             <LeetcodeEditor>
@@ -3729,6 +3740,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SwapNodesInPairs_Two4.java" />
               <option name="titleSlug" value="swap-nodes-in-pairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SymmetricTree_One01.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SymmetricTree_One01.md" />
+              <option name="frontendQuestionId" value="leetcode.cn101" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SymmetricTree_One01.java" />
+              <option name="titleSlug" value="symmetric-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
