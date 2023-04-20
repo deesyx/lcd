@@ -3644,6 +3644,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/StepsToMakeArrayNonDecreasing_Two289.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/StepsToMakeArrayNonDecreasing_Two289.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2289" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/StepsToMakeArrayNonDecreasing_Two289.java" />
+              <option name="titleSlug" value="steps-to-make-array-non-decreasing" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/StringRotationLcci_面试题01.09.java">
           <value>
             <LeetcodeEditor>
