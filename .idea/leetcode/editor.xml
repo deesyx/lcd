@@ -3534,6 +3534,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SmallestEvenMultiple_Two413.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SmallestEvenMultiple_Two413.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2413" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SmallestEvenMultiple_Two413.java" />
+              <option name="titleSlug" value="smallest-even-multiple" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SmallestStringStartingFromLeaf_Nine88.java">
           <value>
             <LeetcodeEditor>
