@@ -59,7 +59,6 @@ public class FillingBookcaseShelves_One105 {
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
         public int minHeightShelves(int[][] books, int shelfWidth) {
-            String
             int n = books.length;
             int[] dp = new int[n + 1];
 
