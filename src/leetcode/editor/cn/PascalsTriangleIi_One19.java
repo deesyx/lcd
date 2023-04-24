@@ -62,16 +62,14 @@ public class PascalsTriangleIi_One19 {
             }};
 
             for (int i = 1; i <= rowIndex; i++) {
-                List<Integer> path = new ArrayList<>() {{
-                    add(1);
-                }};
+                int last = 1;
                 for (int j = 1; j < i; j++) {
-                    path.add(dp.get(j) + dp.get(j - 1));
+                    int sum = dp.get(j) + last;
+                    last = dp.get(j);
+                    dp.set(j, sum);
                 }
-                path.add(1);
-                dp = path;
+                dp.add(1);
             }
-
             return dp;
         }
     }
