@@ -2115,6 +2115,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumSumOfTwoNonOverlappingSubarrays_One031.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MaximumSumOfTwoNonOverlappingSubarrays_One031.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1031" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumSumOfTwoNonOverlappingSubarrays_One031.java" />
+              <option name="titleSlug" value="maximum-sum-of-two-non-overlapping-subarrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumSwap_Six70.java">
           <value>
             <LeetcodeEditor>
