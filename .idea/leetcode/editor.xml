@@ -410,6 +410,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CloneGraph_One33.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/CloneGraph_One33.md" />
+              <option name="frontendQuestionId" value="leetcode.cn133" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CloneGraph_One33.java" />
+              <option name="titleSlug" value="clone-graph" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ClosestDessertCost_One774.java">
           <value>
             <LeetcodeEditor>
