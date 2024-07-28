@@ -872,6 +872,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DesignExcelSumFormula_631.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn631" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DesignExcelSumFormula_631.java" />
+              <option name="titleSlug" value="design-excel-sum-formula" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DesignLinkedList_Seven07.java">
           <value>
             <LeetcodeEditor>
@@ -957,6 +967,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DistributeCandies_Five75.java" />
               <option name="titleSlug" value="distribute-candies" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DivideTwoIntegers_29.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/DivideTwoIntegers_29.md" />
+              <option name="frontendQuestionId" value="leetcode.cn29" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DivideTwoIntegers_29.java" />
+              <option name="titleSlug" value="divide-two-integers" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1367,6 +1388,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheValueOfThePartition_2740.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2740" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheValueOfThePartition_2740.java" />
+              <option name="titleSlug" value="find-the-value-of-the-partition" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindValidMatrixGivenRowAndColumnSums_One605.java">
           <value>
             <LeetcodeEditor>
@@ -1543,6 +1574,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/GuessNumberHigherOrLower_374.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn374" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/GuessNumberHigherOrLower_374.java" />
+              <option name="titleSlug" value="guess-number-higher-or-lower" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/HeWeiSdeLianXuZhengShuXuLieLcof_剑指Offer57II.java">
           <value>
             <LeetcodeEditor>
@@ -1598,6 +1639,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/InsertDeleteGetrandomO1_380.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn380" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/InsertDeleteGetrandomO1_380.java" />
+              <option name="titleSlug" value="insert-delete-getrandom-o1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/IntegerBreak_Three43.java">
           <value>
             <LeetcodeEditor>
@@ -1606,6 +1657,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/IntegerBreak_Three43.java" />
               <option name="titleSlug" value="integer-break" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/IntegerToRoman_12.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn12" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/IntegerToRoman_12.java" />
+              <option name="titleSlug" value="integer-to-roman" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1837,6 +1898,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestIncreasingSubsequence_Three00.java" />
               <option name="titleSlug" value="longest-increasing-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestPalindrome_409.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn409" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestPalindrome_409.java" />
+              <option name="titleSlug" value="longest-palindrome" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2992,6 +3063,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PossibleBipartition_Eight86.java" />
               <option name="titleSlug" value="possible-bipartition" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PowerOfThree_326.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn326" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PowerOfThree_326.java" />
+              <option name="titleSlug" value="power-of-three" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -4301,6 +4382,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumAbsoluteDifference_One200.java" />
               <option name="titleSlug" value="minimum-absolute-difference" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[29]两数相除.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/DivideTwoIntegers_29.md" />
+              <option name="frontendQuestionId" value="leetcode.cn29" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DivideTwoIntegers_29.java" />
+              <option name="titleSlug" value="divide-two-integers" />
             </LeetcodeEditor>
           </value>
         </entry>
