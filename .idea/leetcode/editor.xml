@@ -739,6 +739,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CousinsInBinaryTree_993.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn993" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CousinsInBinaryTree_993.java" />
+              <option name="titleSlug" value="cousins-in-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CrackingTheSafe_Seven53.java">
           <value>
             <LeetcodeEditor>
@@ -1043,6 +1053,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/EqualSumArraysWithMinimumNumberOfOperations_One775.java" />
               <option name="titleSlug" value="equal-sum-arrays-with-minimum-number-of-operations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ErChaShuDeShenDuLcof_LCR 175.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cnLCR 175" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ErChaShuDeShenDuLcof_LCR 175.java" />
+              <option name="titleSlug" value="er-cha-shu-de-shen-du-lcof" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2119,6 +2139,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumDepthOfBinaryTree_104.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn104" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumDepthOfBinaryTree_104.java" />
+              <option name="titleSlug" value="maximum-depth-of-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumDifferenceBetweenNodeAndAncestor_One026.java">
           <value>
             <LeetcodeEditor>
@@ -2435,6 +2465,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumCostToMoveChipsToTheSamePosition_One217.java" />
               <option name="titleSlug" value="minimum-cost-to-move-chips-to-the-same-position" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumDepthOfBinaryTree_111.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn111" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumDepthOfBinaryTree_111.java" />
+              <option name="titleSlug" value="minimum-depth-of-binary-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3819,6 +3859,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SoupServings_Eight08.java" />
               <option name="titleSlug" value="soup-servings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SquaresOfASortedArray_977.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn977" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SquaresOfASortedArray_977.java" />
+              <option name="titleSlug" value="squares-of-a-sorted-array" />
             </LeetcodeEditor>
           </value>
         </entry>
