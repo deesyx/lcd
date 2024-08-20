@@ -1900,6 +1900,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/KeyboardRow_500.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn500" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/KeyboardRow_500.java" />
+              <option name="titleSlug" value="keyboard-row" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/KthSmallestNumberInMultiplicationTable_Six68.java">
           <value>
             <LeetcodeEditor>
@@ -2985,6 +2995,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfSegmentsInAString_434.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn434" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfSegmentsInAString_434.java" />
+              <option name="titleSlug" value="number-of-segments-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfStudentsDoingHomeworkAtAGivenTime_One450.java">
           <value>
             <LeetcodeEditor>
@@ -3507,6 +3527,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ReformatTheString_One417.java" />
               <option name="titleSlug" value="reformat-the-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RemoveDuplicateLetters_316.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn316" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RemoveDuplicateLetters_316.java" />
+              <option name="titleSlug" value="remove-duplicate-letters" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -4500,6 +4530,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ValidateStackSequences_Nine46.java" />
               <option name="titleSlug" value="validate-stack-sequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/VerifyPreorderSerializationOfABinaryTree_331.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn331" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/VerifyPreorderSerializationOfABinaryTree_331.java" />
+              <option name="titleSlug" value="verify-preorder-serialization-of-a-binary-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
