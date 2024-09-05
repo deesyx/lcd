@@ -2344,6 +2344,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumGap_164.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn164" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumGap_164.java" />
+              <option name="titleSlug" value="maximum-gap" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumLengthOfRepeatedSubarray_Seven18.java">
           <value>
             <LeetcodeEditor>
@@ -3666,13 +3676,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RepeatedDnaSequences_187.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/RepeatedDnaSequences_One87.md" />
+              <option name="frontendQuestionId" value="leetcode.cn187" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RepeatedDnaSequences_187.java" />
+              <option name="titleSlug" value="repeated-dna-sequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RepeatedDnaSequences_One87.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/RepeatedDnaSequences_One87.md" />
               <option name="frontendQuestionId" value="leetcode.cn187" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RepeatedDnaSequences_One87.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RepeatedDnaSequences_187.java" />
               <option name="titleSlug" value="repeated-dna-sequences" />
             </LeetcodeEditor>
           </value>
@@ -4180,13 +4201,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SubarrayProductLessThanK_713.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SubarrayProductLessThanK_Seven13.md" />
+              <option name="frontendQuestionId" value="leetcode.cn713" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SubarrayProductLessThanK_713.java" />
+              <option name="titleSlug" value="subarray-product-less-than-k" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SubarrayProductLessThanK_Seven13.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SubarrayProductLessThanK_Seven13.md" />
               <option name="frontendQuestionId" value="leetcode.cn713" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SubarrayProductLessThanK_Seven13.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SubarrayProductLessThanK_713.java" />
               <option name="titleSlug" value="subarray-product-less-than-k" />
             </LeetcodeEditor>
           </value>
