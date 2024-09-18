@@ -66,6 +66,7 @@ public class LongestCommonSubsequence_1143 {
                     }
                 }
             }
+
             return dp[text1.length()][text2.length()];
         }
     }
