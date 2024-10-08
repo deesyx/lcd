@@ -494,6 +494,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CombinationSumIii_216.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn216" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CombinationSumIii_216.java" />
+              <option name="titleSlug" value="combination-sum-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CombinationSum_39.java">
           <value>
             <LeetcodeEditor>
@@ -588,6 +598,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ConvertBstToGreaterTree_Five38.java" />
               <option name="titleSlug" value="convert-bst-to-greater-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ConvertSortedListToBinarySearchTree_109.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn109" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ConvertSortedListToBinarySearchTree_109.java" />
+              <option name="titleSlug" value="convert-sorted-list-to-binary-search-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1812,6 +1832,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ImplementStackUsingQueues_225.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn225" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ImplementStackUsingQueues_225.java" />
+              <option name="titleSlug" value="implement-stack-using-queues" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/InsertDeleteGetrandomO1_380.java">
           <value>
             <LeetcodeEditor>
@@ -1982,6 +2012,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/KthSmallestElementInABst_230.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn230" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/KthSmallestElementInABst_230.java" />
+              <option name="titleSlug" value="kth-smallest-element-in-a-bst" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/KthSmallestNumberInMultiplicationTable_Six68.java">
           <value>
             <LeetcodeEditor>
@@ -2026,6 +2066,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LengthOfTheLongestAlphabeticalContinuousSubstring_2414.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2414" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LengthOfTheLongestAlphabeticalContinuousSubstring_2414.java" />
+              <option name="titleSlug" value="length-of-the-longest-alphabetical-continuous-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LetterCombinationsOfAPhoneNumber_One7.java">
           <value>
             <LeetcodeEditor>
@@ -2034,6 +2084,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LetterCombinationsOfAPhoneNumber_One7.java" />
               <option name="titleSlug" value="letter-combinations-of-a-phone-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LexicographicalNumbers_386.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn386" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LexicographicalNumbers_386.java" />
+              <option name="titleSlug" value="lexicographical-numbers" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2154,6 +2214,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestStringChain_One048.java" />
               <option name="titleSlug" value="longest-string-chain" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestSubstringWithAtLeastKRepeatingCharacters_395.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn395" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestSubstringWithAtLeastKRepeatingCharacters_395.java" />
+              <option name="titleSlug" value="longest-substring-with-at-least-k-repeating-characters" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2364,13 +2434,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumLengthOfRepeatedSubarray_718.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MaximumLengthOfRepeatedSubarray_Seven18.md" />
+              <option name="frontendQuestionId" value="leetcode.cn718" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumLengthOfRepeatedSubarray_718.java" />
+              <option name="titleSlug" value="maximum-length-of-repeated-subarray" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumLengthOfRepeatedSubarray_Seven18.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MaximumLengthOfRepeatedSubarray_Seven18.md" />
               <option name="frontendQuestionId" value="leetcode.cn718" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumLengthOfRepeatedSubarray_Seven18.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumLengthOfRepeatedSubarray_718.java" />
               <option name="titleSlug" value="maximum-length-of-repeated-subarray" />
             </LeetcodeEditor>
           </value>
@@ -2589,6 +2670,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MergeSimilarItems_Two363.java" />
               <option name="titleSlug" value="merge-similar-items" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MergeSortedArray_88.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn88" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MergeSortedArray_88.java" />
+              <option name="titleSlug" value="merge-sorted-array" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3783,6 +3874,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ReverseVowelsOfAString_345.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn345" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ReverseVowelsOfAString_345.java" />
+              <option name="titleSlug" value="reverse-vowels-of-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ReverseWordsInAString_One51.java">
           <value>
             <LeetcodeEditor>
@@ -4425,6 +4526,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SymmetricTree_One01.java" />
               <option name="titleSlug" value="symmetric-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/TakeKOfEachCharacterFromLeftAndRight_2516.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2516" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/TakeKOfEachCharacterFromLeftAndRight_2516.java" />
+              <option name="titleSlug" value="take-k-of-each-character-from-left-and-right" />
             </LeetcodeEditor>
           </value>
         </entry>
