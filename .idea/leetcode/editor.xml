@@ -2092,6 +2092,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/KthSmallestElementInASortedMatrix_378.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn378" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/KthSmallestElementInASortedMatrix_378.java" />
+              <option name="titleSlug" value="kth-smallest-element-in-a-sorted-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/KthSmallestNumberInMultiplicationTable_Six68.java">
           <value>
             <LeetcodeEditor>
@@ -2861,6 +2871,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumAverageOfSmallestAndLargestElements_3194.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3194" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumAverageOfSmallestAndLargestElements_3194.java" />
+              <option name="titleSlug" value="minimum-average-of-smallest-and-largest-elements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumChangesToMakeAlternatingBinaryString_One758.java">
           <value>
             <LeetcodeEditor>
@@ -3000,6 +3020,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumNumberOfPeopleToTeach_One733.java" />
               <option name="titleSlug" value="minimum-number-of-people-to-teach" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumOperationsToMakeBinaryArrayElementsEqualToOneI_3191.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3191" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumOperationsToMakeBinaryArrayElementsEqualToOneI_3191.java" />
+              <option name="titleSlug" value="minimum-operations-to-make-binary-array-elements-equal-to-one-i" />
             </LeetcodeEditor>
           </value>
         </entry>
