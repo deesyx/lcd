@@ -752,6 +752,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountPairsThatFormACompleteDayIi_3185.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3185" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountPairsThatFormACompleteDayIi_3185.java" />
+              <option name="titleSlug" value="count-pairs-that-form-a-complete-day-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountPairsWithXorInARange_One803.java">
           <value>
             <LeetcodeEditor>
