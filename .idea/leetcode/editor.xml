@@ -857,6 +857,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountTheNumberOfGoodNodes_3249.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3249" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountTheNumberOfGoodNodes_3249.java" />
+              <option name="titleSlug" value="count-the-number-of-good-nodes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountUniqueCharactersOfAllSubstringsOfAGivenString_Eight28.java">
           <value>
             <LeetcodeEditor>
@@ -2071,6 +2081,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/IsSubsequence_392.java" />
               <option name="titleSlug" value="is-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/IslandPerimeter_463.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn463" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/IslandPerimeter_463.java" />
+              <option name="titleSlug" value="island-perimeter" />
             </LeetcodeEditor>
           </value>
         </entry>
