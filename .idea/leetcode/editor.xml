@@ -4093,6 +4093,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RepeatedSubstringPattern_459.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn459" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RepeatedSubstringPattern_459.java" />
+              <option name="titleSlug" value="repeated-substring-pattern" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ReplaceWords_Six48.java">
           <value>
             <LeetcodeEditor>
