@@ -458,6 +458,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfTwoChessboardSquaresHaveTheSameColor_3274.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3274" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfTwoChessboardSquaresHaveTheSameColor_3274.java" />
+              <option name="titleSlug" value="check-if-two-chessboard-squares-have-the-same-color" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfTwoStringArraysAreEquivalent_One662.java">
           <value>
             <LeetcodeEditor>
