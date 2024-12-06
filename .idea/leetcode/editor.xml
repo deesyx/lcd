@@ -122,6 +122,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/AvailableCapturesForRook_999.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn999" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AvailableCapturesForRook_999.java" />
+              <option name="titleSlug" value="available-captures-for-rook" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BaShuZuPaiChengZuiXiaoDeShuLcof_剑指Offer45.java">
           <value>
             <LeetcodeEditor>
