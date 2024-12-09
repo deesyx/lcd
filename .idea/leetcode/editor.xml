@@ -1125,13 +1125,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DetermineColorOfAChessboardSquare_1812.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/DetermineColorOfAChessboardSquare_One812.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1812" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DetermineColorOfAChessboardSquare_1812.java" />
+              <option name="titleSlug" value="determine-color-of-a-chessboard-square" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DetermineColorOfAChessboardSquare_One812.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/DetermineColorOfAChessboardSquare_One812.md" />
               <option name="frontendQuestionId" value="leetcode.cn1812" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DetermineColorOfAChessboardSquare_One812.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DetermineColorOfAChessboardSquare_1812.java" />
               <option name="titleSlug" value="determine-color-of-a-chessboard-square" />
             </LeetcodeEditor>
           </value>
