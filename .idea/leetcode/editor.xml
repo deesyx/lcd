@@ -3332,6 +3332,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumTimeVisitingAllPoints_1266.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1266" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumTimeVisitingAllPoints_1266.java" />
+              <option name="titleSlug" value="minimum-time-visiting-all-points" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumValueToGetPositiveStepByStepSum_One413.java">
           <value>
             <LeetcodeEditor>
@@ -4398,6 +4408,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SemiOrderedPermutation_2717.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2717" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SemiOrderedPermutation_2717.java" />
+              <option name="titleSlug" value="semi-ordered-permutation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SentenceSimilarityIii_One813.java">
           <value>
             <LeetcodeEditor>
@@ -4764,6 +4784,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/StudentAttendanceRecordI_551.java" />
               <option name="titleSlug" value="student-attendance-record-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/StudentsAndExaminations_1280.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1280" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/StudentsAndExaminations_1280.java" />
+              <option name="titleSlug" value="students-and-examinations" />
             </LeetcodeEditor>
           </value>
         </entry>
