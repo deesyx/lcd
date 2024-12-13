@@ -1463,6 +1463,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FinalArrayStateAfterKMultiplicationOperationsI_3264.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3264" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FinalArrayStateAfterKMultiplicationOperationsI_3264.java" />
+              <option name="titleSlug" value="final-array-state-after-k-multiplication-operations-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FinalPricesWithASpecialDiscountInAShop_One475.java">
           <value>
             <LeetcodeEditor>
