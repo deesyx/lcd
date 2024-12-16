@@ -5036,6 +5036,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/TeemoAttacking_495.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn495" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/TeemoAttacking_495.java" />
+              <option name="titleSlug" value="teemo-attacking" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/TheNumberOfWeakCharactersInTheGame_One996.java">
           <value>
             <LeetcodeEditor>
