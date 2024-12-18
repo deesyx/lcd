@@ -1039,6 +1039,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DegreeOfAnArray_697.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn697" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DegreeOfAnArray_697.java" />
+              <option name="titleSlug" value="degree-of-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DeleteColumnsToMakeSorted_Nine44.java">
           <value>
             <LeetcodeEditor>
@@ -4491,6 +4501,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ShortestBridge_Nine34.java" />
               <option name="titleSlug" value="shortest-bridge" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ShortestDistanceToACharacter_821.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn821" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ShortestDistanceToACharacter_821.java" />
+              <option name="titleSlug" value="shortest-distance-to-a-character" />
             </LeetcodeEditor>
           </value>
         </entry>
