@@ -1581,6 +1581,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindIndicesOfStableMountains_3285.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3285" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindIndicesOfStableMountains_3285.java" />
+              <option name="titleSlug" value="find-indices-of-stable-mountains" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindKClosestElements_Six58.java">
           <value>
             <LeetcodeEditor>
