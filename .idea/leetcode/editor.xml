@@ -2347,6 +2347,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LeafSimilarTrees_872.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn872" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LeafSimilarTrees_872.java" />
+              <option name="titleSlug" value="leaf-similar-trees" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LengthOfTheLongestAlphabeticalContinuousSubstring_2414.java">
           <value>
             <LeetcodeEditor>
