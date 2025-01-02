@@ -3520,6 +3520,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NRepeatedElementInSize2nArray_961.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn961" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NRepeatedElementInSize2nArray_961.java" />
+              <option name="titleSlug" value="n-repeated-element-in-size-2n-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NUPfPr_剑指OfferII101.java">
           <value>
             <LeetcodeEditor>
