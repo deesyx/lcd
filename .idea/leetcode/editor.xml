@@ -2344,6 +2344,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Largest3SameDigitNumberInString_2264.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2264" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Largest3SameDigitNumberInString_2264.java" />
+              <option name="titleSlug" value="largest-3-same-digit-number-in-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LargestLocalValuesInAMatrix_Two373.java">
           <value>
             <LeetcodeEditor>
@@ -3713,6 +3723,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfSubarraysWithBoundedMaximum_Seven95.java" />
               <option name="titleSlug" value="number-of-subarrays-with-bounded-maximum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfWaysToSplitArray_2270.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2270" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfWaysToSplitArray_2270.java" />
+              <option name="titleSlug" value="number-of-ways-to-split-array" />
             </LeetcodeEditor>
           </value>
         </entry>
