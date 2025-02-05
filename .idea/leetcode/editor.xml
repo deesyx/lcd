@@ -4980,13 +4980,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SubsetsIi_90.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SubsetsIi_Nine0.md" />
+              <option name="frontendQuestionId" value="leetcode.cn90" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SubsetsIi_90.java" />
+              <option name="titleSlug" value="subsets-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SubsetsIi_Nine0.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SubsetsIi_Nine0.md" />
               <option name="frontendQuestionId" value="leetcode.cn90" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SubsetsIi_Nine0.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SubsetsIi_90.java" />
               <option name="titleSlug" value="subsets-ii" />
             </LeetcodeEditor>
           </value>
