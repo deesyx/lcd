@@ -1894,6 +1894,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FirstBadVersion_278.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn278" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FirstBadVersion_278.java" />
+              <option name="titleSlug" value="first-bad-version" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Five69nqc_剑指OfferII035.java">
           <value>
             <LeetcodeEditor>
@@ -5497,6 +5507,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/TwoSumIiInputArrayIsSorted_One67.java" />
               <option name="titleSlug" value="two-sum-ii-input-array-is-sorted" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/TwoSumIvInputIsABst_653.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn653" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/TwoSumIvInputIsABst_653.java" />
+              <option name="titleSlug" value="two-sum-iv-input-is-a-bst" />
             </LeetcodeEditor>
           </value>
         </entry>
