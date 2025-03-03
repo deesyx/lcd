@@ -111,6 +111,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ArrangingCoins_441.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn441" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ArrangingCoins_441.java" />
+              <option name="titleSlug" value="arranging-coins" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/AsteroidCollision_Seven35.java">
           <value>
             <LeetcodeEditor>
@@ -2612,6 +2622,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestConsecutiveSequence_One28.java" />
               <option name="titleSlug" value="longest-consecutive-sequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestHarmoniousSubsequence_594.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn594" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestHarmoniousSubsequence_594.java" />
+              <option name="titleSlug" value="longest-harmonious-subsequence" />
             </LeetcodeEditor>
           </value>
         </entry>
