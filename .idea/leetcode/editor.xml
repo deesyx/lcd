@@ -5411,6 +5411,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/TheNumberOfBeautifulSubsets_2597.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2597" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/TheNumberOfBeautifulSubsets_2597.java" />
+              <option name="titleSlug" value="the-number-of-beautiful-subsets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/TheNumberOfWeakCharactersInTheGame_One996.java">
           <value>
             <LeetcodeEditor>
