@@ -1810,13 +1810,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheKBeautyOfANumber_2269.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/FindTheKBeautyOfANumber_Two269.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2269" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheKBeautyOfANumber_2269.java" />
+              <option name="titleSlug" value="find-the-k-beauty-of-a-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheKBeautyOfANumber_Two269.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/FindTheKBeautyOfANumber_Two269.md" />
               <option name="frontendQuestionId" value="leetcode.cn2269" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheKBeautyOfANumber_Two269.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheKBeautyOfANumber_2269.java" />
               <option name="titleSlug" value="find-the-k-beauty-of-a-number" />
             </LeetcodeEditor>
           </value>
@@ -5246,6 +5257,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SuccessorLcci_面试题04.06.java" />
               <option name="titleSlug" value="successor-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfBeautyInTheArray_2012.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2012" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfBeautyInTheArray_2012.java" />
+              <option name="titleSlug" value="sum-of-beauty-in-the-array" />
             </LeetcodeEditor>
           </value>
         </entry>
