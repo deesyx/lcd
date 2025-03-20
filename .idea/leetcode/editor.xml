@@ -700,6 +700,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ConvertAnArrayIntoA2dArrayWithConditions_2610.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2610" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ConvertAnArrayIntoA2dArrayWithConditions_2610.java" />
+              <option name="titleSlug" value="convert-an-array-into-a-2d-array-with-conditions" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ConvertBstToGreaterTree_Five38.java">
           <value>
             <LeetcodeEditor>
@@ -5674,13 +5684,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/UniqueBinarySearchTrees_96.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/UniqueBinarySearchTrees_Nine6.md" />
+              <option name="frontendQuestionId" value="leetcode.cn96" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/UniqueBinarySearchTrees_96.java" />
+              <option name="titleSlug" value="unique-binary-search-trees" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/UniqueBinarySearchTrees_Nine6.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/UniqueBinarySearchTrees_Nine6.md" />
               <option name="frontendQuestionId" value="leetcode.cn96" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/UniqueBinarySearchTrees_Nine6.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/UniqueBinarySearchTrees_96.java" />
               <option name="titleSlug" value="unique-binary-search-trees" />
             </LeetcodeEditor>
           </value>
