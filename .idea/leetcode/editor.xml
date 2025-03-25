@@ -903,6 +903,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountPrefixesOfAGivenString_2255.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2255" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountPrefixesOfAGivenString_2255.java" />
+              <option name="titleSlug" value="count-prefixes-of-a-given-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountPrimes_Two04.java">
           <value>
             <LeetcodeEditor>
@@ -1288,6 +1298,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DiameterOfBinaryTree_Five43.java" />
               <option name="titleSlug" value="diameter-of-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DifferenceOfNumberOfDistinctValuesOnDiagonals_2711.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2711" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DifferenceOfNumberOfDistinctValuesOnDiagonals_2711.java" />
+              <option name="titleSlug" value="difference-of-number-of-distinct-values-on-diagonals" />
             </LeetcodeEditor>
           </value>
         </entry>
