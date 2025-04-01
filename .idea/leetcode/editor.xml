@@ -4225,6 +4225,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PercentageOfLetterInString_2278.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2278" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PercentageOfLetterInString_2278.java" />
+              <option name="titleSlug" value="percentage-of-letter-in-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PerfectSquares_Two79.java">
           <value>
             <LeetcodeEditor>
@@ -5118,6 +5128,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SolveTheEquation_Six40.java" />
               <option name="titleSlug" value="solve-the-equation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SolvingQuestionsWithBrainpower_2140.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2140" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SolvingQuestionsWithBrainpower_2140.java" />
+              <option name="titleSlug" value="solving-questions-with-brainpower" />
             </LeetcodeEditor>
           </value>
         </entry>
