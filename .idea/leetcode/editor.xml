@@ -808,6 +808,26 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountEqualAndDivisiblePairsInAnArray_2176.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2176" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountEqualAndDivisiblePairsInAnArray_2176.java" />
+              <option name="titleSlug" value="count-equal-and-divisible-pairs-in-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountGoodTripletsInAnArray_2179.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2179" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountGoodTripletsInAnArray_2179.java" />
+              <option name="titleSlug" value="count-good-triplets-in-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountGoodTriplets_1534.java">
           <value>
             <LeetcodeEditor>
@@ -994,6 +1014,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountTheNumberOfGoodNodes_3249.java" />
               <option name="titleSlug" value="count-the-number-of-good-nodes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountTheNumberOfGoodSubarrays_2537.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2537" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountTheNumberOfGoodSubarrays_2537.java" />
+              <option name="titleSlug" value="count-the-number-of-good-subarrays" />
             </LeetcodeEditor>
           </value>
         </entry>
