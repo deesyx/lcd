@@ -860,6 +860,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountNumberOfBadPairs_2364.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2364" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountNumberOfBadPairs_2364.java" />
+              <option name="titleSlug" value="count-number-of-bad-pairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountNumberOfHomogenousSubstrings_One759.java">
           <value>
             <LeetcodeEditor>
