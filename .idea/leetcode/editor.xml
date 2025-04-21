@@ -1006,6 +1006,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountTheHiddenSequences_2145.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2145" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountTheHiddenSequences_2145.java" />
+              <option name="titleSlug" value="count-the-hidden-sequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountTheNumberOfConsistentStrings_One684.java">
           <value>
             <LeetcodeEditor>
