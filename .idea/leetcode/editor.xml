@@ -786,6 +786,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountCompleteSubarraysInAnArray_2799.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2799" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountCompleteSubarraysInAnArray_2799.java" />
+              <option name="titleSlug" value="count-complete-subarrays-in-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountDaysSpentTogether_Two409.java">
           <value>
             <LeetcodeEditor>
