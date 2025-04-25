@@ -901,6 +901,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountOfInterestingSubarrays_2845.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2845" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountOfInterestingSubarrays_2845.java" />
+              <option name="titleSlug" value="count-of-interesting-subarrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountOfSmallerNumbersAfterSelf_Three15.java">
           <value>
             <LeetcodeEditor>
