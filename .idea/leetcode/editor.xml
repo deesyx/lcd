@@ -1005,6 +1005,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountSubarraysOfLengthThreeWithACondition_3392.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3392" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountSubarraysOfLengthThreeWithACondition_3392.java" />
+              <option name="titleSlug" value="count-subarrays-of-length-three-with-a-condition" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountSubstringsThatDifferByOneCharacter_One638.java">
           <value>
             <LeetcodeEditor>
