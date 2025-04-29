@@ -1015,6 +1015,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountSubarraysWhereMaxElementAppearsAtLeastKTimes_2962.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2962" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountSubarraysWhereMaxElementAppearsAtLeastKTimes_2962.java" />
+              <option name="titleSlug" value="count-subarrays-where-max-element-appears-at-least-k-times" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountSubstringsThatDifferByOneCharacter_One638.java">
           <value>
             <LeetcodeEditor>
