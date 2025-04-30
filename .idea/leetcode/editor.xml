@@ -1937,6 +1937,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindNumbersWithEvenNumberOfDigits_1295.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1295" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindNumbersWithEvenNumberOfDigits_1295.java" />
+              <option name="titleSlug" value="find-numbers-with-even-number-of-digits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindPivotIndex_724.java">
           <value>
             <LeetcodeEditor>
