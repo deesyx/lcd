@@ -2124,6 +2124,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Finding3DigitEvenNumbers_2094.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2094" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Finding3DigitEvenNumbers_2094.java" />
+              <option name="titleSlug" value="finding-3-digit-even-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindingTheUsersActiveMinutes_One817.java">
           <value>
             <LeetcodeEditor>
