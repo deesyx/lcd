@@ -1525,6 +1525,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DivisibleAndNonDivisibleSumsDifference_2894.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2894" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DivisibleAndNonDivisibleSumsDifference_2894.java" />
+              <option name="titleSlug" value="divisible-and-non-divisible-sums-difference" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DuiLieDeZuiDaZhiLcof_剑指Offer59II.java">
           <value>
             <LeetcodeEditor>
