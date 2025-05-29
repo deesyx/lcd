@@ -1740,6 +1740,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ExcelSheetColumnTitle_168.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn168" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ExcelSheetColumnTitle_168.java" />
+              <option name="titleSlug" value="excel-sheet-column-title" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ExistenceOfASubstringInAStringAndItsReverse_3083.java">
           <value>
             <LeetcodeEditor>
