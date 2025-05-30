@@ -354,6 +354,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BitwiseAndOfNumbersRange_201.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn201" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/BitwiseAndOfNumbersRange_201.java" />
+              <option name="titleSlug" value="bitwise-and-of-numbers-range" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BuildArrayFromPermutation_1920.java">
           <value>
             <LeetcodeEditor>
