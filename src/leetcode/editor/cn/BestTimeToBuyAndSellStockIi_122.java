@@ -52,16 +52,16 @@ public class BestTimeToBuyAndSellStockIi_122 {
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
         public int maxProfit(int[] prices) {
-            int[][] dp = new int[2][prices.length];
-            dp[0][0] = 0;
-            dp[1][0] = -prices[0];
+            int[] dp1 = new int[prices.length];// 持股
+            int[] dp2 = new int[prices.length];// 不持股
 
+            dp1[0] = -prices[0];
             for (int i = 1; i < prices.length; i++) {
-                dp[0][i] = Math.max(dp[0][i - 1], prices[i] + dp[1][i - 1]);//不持股，prices[i]+dp[1][i-1]表示卖掉了
-                dp[1][i] = Math.max(dp[1][i - 1], dp[0][i - 1] - prices[i]);//持股，dp[0][i - 1]-prices[i]表示买入
+                dp1[i] = Math.max(dp1[i - 1], dp2[i - 1] - prices[i]);
+                dp2[i] = Math.max(dp2[i - 1], dp1[i - 1] + prices[i]);
             }
 
-            return dp[0][prices.length - 1];
+            return dp2[prices.length - 1];
         }
     }
 //leetcode submit region end(Prohibit modification and deletion)
