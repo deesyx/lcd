@@ -4639,6 +4639,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PartitionArraySuchThatMaximumDifferenceIsK_2294.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2294" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PartitionArraySuchThatMaximumDifferenceIsK_2294.java" />
+              <option name="titleSlug" value="partition-array-such-that-maximum-difference-is-k" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PartitionEqualSubsetSum_416.java">
           <value>
             <LeetcodeEditor>
