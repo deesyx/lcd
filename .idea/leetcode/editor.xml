@@ -3459,6 +3459,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumManhattanDistanceAfterKChanges_3443.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3443" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumManhattanDistanceAfterKChanges_3443.java" />
+              <option name="titleSlug" value="maximum-manhattan-distance-after-k-changes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumNumberOfBallsInABox_1742.java">
           <value>
             <LeetcodeEditor>
