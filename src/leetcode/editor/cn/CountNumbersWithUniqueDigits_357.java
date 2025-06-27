@@ -48,9 +48,9 @@ public class CountNumbersWithUniqueDigits_357 {
             }
 
             int ans = 10;
-            int base = 9;
+            int base = 9;// 最高位9种选择
             for (int i = 0; i < n - 1; i++) {
-                base = base * (9 - i);
+                base = base * (9 - i);// 每次位都少一个
                 ans += base;
             }
 
