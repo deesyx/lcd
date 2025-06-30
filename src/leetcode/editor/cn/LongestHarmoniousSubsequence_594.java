@@ -67,9 +67,9 @@ public class LongestHarmoniousSubsequence_594 {
     class Solution {
         public int findLHS(int[] nums) {
             Arrays.sort(nums);
+            int ans = 0;
             int left = 0;
             int right = 0;
-            int ans = 0;
             while (right < nums.length) {
                 while (nums[right] - nums[left] > 1) {
                     left++;
