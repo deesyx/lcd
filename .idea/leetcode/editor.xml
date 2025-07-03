@@ -2204,6 +2204,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheKThCharacterInStringGameI_3304.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3304" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheKThCharacterInStringGameI_3304.java" />
+              <option name="titleSlug" value="find-the-k-th-character-in-string-game-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheNumberOfGoodPairsI_3162.java">
           <value>
             <LeetcodeEditor>
