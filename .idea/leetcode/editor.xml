@@ -216,6 +216,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BeautifulArrangement_526.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn526" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/BeautifulArrangement_526.java" />
+              <option name="titleSlug" value="beautiful-arrangement" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BestTeamWithNoConflicts_One626.java">
           <value>
             <LeetcodeEditor>
@@ -3422,6 +3432,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximizeTheNumberOfTargetNodesAfterConnectingTreesI_3372.java" />
               <option name="titleSlug" value="maximize-the-number-of-target-nodes-after-connecting-trees-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumAverageSubarrayI_643.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn643" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumAverageSubarrayI_643.java" />
+              <option name="titleSlug" value="maximum-average-subarray-i" />
             </LeetcodeEditor>
           </value>
         </entry>
