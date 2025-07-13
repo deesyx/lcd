@@ -47,6 +47,7 @@ import java.util.Arrays;
 public class MaximumMatchingOfPlayersWithTrainers_2410 {
     public static void main(String[] args) {
         Solution solution = new MaximumMatchingOfPlayersWithTrainers_2410().new Solution();
+        System.out.println(solution.matchPlayersAndTrainers(new int[]{4, 7, 9}, new int[]{8, 2, 5, 8}));
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)

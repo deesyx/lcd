@@ -3590,6 +3590,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumMatchingOfPlayersWithTrainers_2410.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2410" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumMatchingOfPlayersWithTrainers_2410.java" />
+              <option name="titleSlug" value="maximum-matching-of-players-with-trainers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumNumberOfBallsInABox_1742.java">
           <value>
             <LeetcodeEditor>
