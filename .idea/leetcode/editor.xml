@@ -2254,6 +2254,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheMaximumLengthOfValidSubsequenceI_3201.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3201" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheMaximumLengthOfValidSubsequenceI_3201.java" />
+              <option name="titleSlug" value="find-the-maximum-length-of-valid-subsequence-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheNumberOfGoodPairsI_3162.java">
           <value>
             <LeetcodeEditor>
