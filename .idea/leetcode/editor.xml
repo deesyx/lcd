@@ -3120,6 +3120,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LinkedListRandomNode_382.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn382" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LinkedListRandomNode_382.java" />
+              <option name="titleSlug" value="linked-list-random-node" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestAbsoluteFilePath_388.java">
           <value>
             <LeetcodeEditor>
