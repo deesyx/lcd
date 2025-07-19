@@ -5418,13 +5418,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RemoveSubFoldersFromTheFilesystem_1233.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/RemoveSubFoldersFromTheFilesystem_One233.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1233" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RemoveSubFoldersFromTheFilesystem_1233.java" />
+              <option name="titleSlug" value="remove-sub-folders-from-the-filesystem" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RemoveSubFoldersFromTheFilesystem_One233.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/RemoveSubFoldersFromTheFilesystem_One233.md" />
               <option name="frontendQuestionId" value="leetcode.cn1233" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RemoveSubFoldersFromTheFilesystem_One233.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RemoveSubFoldersFromTheFilesystem_1233.java" />
               <option name="titleSlug" value="remove-sub-folders-from-the-filesystem" />
             </LeetcodeEditor>
           </value>
