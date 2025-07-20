@@ -61,19 +61,16 @@ public class KthSmallestElementInABst_230 {
     class Solution {
 
         private int k;
-        private Integer ans;
+        private int ans;
 
         public int kthSmallest(TreeNode root, int k) {
             this.k = k;
             dfs(root);
-            return ans;
+            return this.ans;
         }
 
         private void dfs(TreeNode node) {
             if (node == null) {
-                return;
-            }
-            if (ans != null) {
                 return;
             }
 
@@ -81,6 +78,7 @@ public class KthSmallestElementInABst_230 {
             k--;
             if (k == 0) {
                 ans = node.val;
+                return;
             }
             dfs(node.right);
         }
