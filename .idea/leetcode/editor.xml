@@ -1411,6 +1411,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DeleteCharactersToMakeFancyString_1957.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1957" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DeleteCharactersToMakeFancyString_1957.java" />
+              <option name="titleSlug" value="delete-characters-to-make-fancy-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DeleteColumnsToMakeSorted_Nine44.java">
           <value>
             <LeetcodeEditor>
