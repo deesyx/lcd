@@ -1043,6 +1043,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountNumberOfMaximumBitwiseOrSubsets_2044.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2044" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountNumberOfMaximumBitwiseOrSubsets_2044.java" />
+              <option name="titleSlug" value="count-number-of-maximum-bitwise-or-subsets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountNumbersWithUniqueDigits_357.java">
           <value>
             <LeetcodeEditor>
