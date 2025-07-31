@@ -216,6 +216,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BattleshipsInABoard_419.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn419" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/BattleshipsInABoard_419.java" />
+              <option name="titleSlug" value="battleships-in-a-board" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BeautifulArrangement_526.java">
           <value>
             <LeetcodeEditor>
@@ -4554,6 +4564,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NUPfPr_剑指OfferII101.java" />
               <option name="titleSlug" value="NUPfPr" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NeighboringBitwiseXor_2683.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2683" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NeighboringBitwiseXor_2683.java" />
+              <option name="titleSlug" value="neighboring-bitwise-xor" />
             </LeetcodeEditor>
           </value>
         </entry>
