@@ -1632,13 +1632,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DiameterOfBinaryTree_543.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/DiameterOfBinaryTree_Five43.md" />
+              <option name="frontendQuestionId" value="leetcode.cn543" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DiameterOfBinaryTree_543.java" />
+              <option name="titleSlug" value="diameter-of-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DiameterOfBinaryTree_Five43.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/DiameterOfBinaryTree_Five43.md" />
               <option name="frontendQuestionId" value="leetcode.cn543" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DiameterOfBinaryTree_Five43.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DiameterOfBinaryTree_543.java" />
               <option name="titleSlug" value="diameter-of-binary-tree" />
             </LeetcodeEditor>
           </value>
