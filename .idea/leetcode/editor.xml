@@ -1740,13 +1740,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/EditDistance_72.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/EditDistance_Seven2.md" />
+              <option name="frontendQuestionId" value="leetcode.cn72" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/EditDistance_72.java" />
+              <option name="titleSlug" value="edit-distance" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/EditDistance_Seven2.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/EditDistance_Seven2.md" />
               <option name="frontendQuestionId" value="leetcode.cn72" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/EditDistance_Seven2.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/EditDistance_72.java" />
               <option name="titleSlug" value="edit-distance" />
             </LeetcodeEditor>
           </value>
@@ -1758,6 +1769,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ElementAppearingMoreThan25InSortedArray_1287.java" />
               <option name="titleSlug" value="element-appearing-more-than-25-in-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/EliminationGame_390.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn390" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/EliminationGame_390.java" />
+              <option name="titleSlug" value="elimination-game" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -4265,6 +4286,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumHeightTrees_310.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn310" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumHeightTrees_310.java" />
+              <option name="titleSlug" value="minimum-height-trees" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MinimumHoursOfTrainingToWinACompetition_Two383.java">
           <value>
             <LeetcodeEditor>
@@ -6217,13 +6248,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SoupServings_808.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SoupServings_Eight08.md" />
+              <option name="frontendQuestionId" value="leetcode.cn808" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SoupServings_808.java" />
+              <option name="titleSlug" value="soup-servings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SoupServings_Eight08.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SoupServings_Eight08.md" />
               <option name="frontendQuestionId" value="leetcode.cn808" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SoupServings_Eight08.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SoupServings_808.java" />
               <option name="titleSlug" value="soup-servings" />
             </LeetcodeEditor>
           </value>
