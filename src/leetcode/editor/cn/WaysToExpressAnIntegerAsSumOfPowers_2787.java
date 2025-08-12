@@ -49,11 +49,11 @@ public class WaysToExpressAnIntegerAsSumOfPowers_2787 {
     class Solution {
         public int numberOfWays(int n, int x) {
             long[] dp = new long[n + 1];
-            dp[0] = 1;
+            dp[0] = 1;// 和为0的方案数是1
             for (int i = 1; Math.pow(i, x) <= n; i++) {
                 int v = (int) Math.pow(i, x);
                 for (int j = n; j >= v; j--) {
-                    dp[j] += dp[j - v];
+                    dp[j] = dp[j] + dp[j - v];
                 }
             }
 
