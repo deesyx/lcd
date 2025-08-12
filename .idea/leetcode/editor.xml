@@ -4597,13 +4597,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MyCalendarI_729.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MyCalendarI_Seven29.md" />
+              <option name="frontendQuestionId" value="leetcode.cn729" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MyCalendarI_729.java" />
+              <option name="titleSlug" value="my-calendar-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MyCalendarI_Seven29.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MyCalendarI_Seven29.md" />
               <option name="frontendQuestionId" value="leetcode.cn729" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MyCalendarI_Seven29.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MyCalendarI_729.java" />
               <option name="titleSlug" value="my-calendar-i" />
             </LeetcodeEditor>
           </value>
@@ -5421,13 +5432,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RangeSumQueryMutable_307.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/RangeSumQueryMutable_Three07.md" />
+              <option name="frontendQuestionId" value="leetcode.cn307" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RangeSumQueryMutable_307.java" />
+              <option name="titleSlug" value="range-sum-query-mutable" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RangeSumQueryMutable_Three07.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/RangeSumQueryMutable_Three07.md" />
               <option name="frontendQuestionId" value="leetcode.cn307" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RangeSumQueryMutable_Three07.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RangeSumQueryMutable_307.java" />
               <option name="titleSlug" value="range-sum-query-mutable" />
             </LeetcodeEditor>
           </value>
@@ -7033,6 +7055,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/VerifyingAnAlienDictionary_Nine53.java" />
               <option name="titleSlug" value="verifying-an-alien-dictionary" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/WaysToExpressAnIntegerAsSumOfPowers_2787.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2787" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/WaysToExpressAnIntegerAsSumOfPowers_2787.java" />
+              <option name="titleSlug" value="ways-to-express-an-integer-as-sum-of-powers" />
             </LeetcodeEditor>
           </value>
         </entry>
