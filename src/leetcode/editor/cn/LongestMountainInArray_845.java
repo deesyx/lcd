@@ -57,40 +57,28 @@ import java.util.Stack;
 public class LongestMountainInArray_845 {
     public static void main(String[] args) {
         Solution solution = new LongestMountainInArray_845().new Solution();
+        solution.longestMountain(new int[]{0, 1, 2, 3, 4, 5, 4, 3, 2, 1, 0});
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
         public int longestMountain(int[] arr) {
-            if (arr.length == 0) {
-                return 0;
-            }
-            Stack<Integer> s = new Stack<>();
-            s.push(arr[0]);
+            int ans = 0;
+            for (int i = 1; i < arr.length - 1; i++) {
+                if (arr[i] > arr[i - 1] && arr[i] > arr[i + 1]) {
+                    int left = i - 1;
+                    int right = i + 1;
+                    while (left > 0 && arr[left] > arr[left - 1]) {
+                        left--;
+                    }
 
-            int idx = 1;
-            while (idx < arr.length && arr[idx] > s.peek()) {
-                s.push(arr[idx]);
-                idx++;
-            }
-
-            int ans = s.size();
-            if (idx < arr.length && arr[idx] < s.peek()) {
-                Stack<Integer> s2 = new Stack<>();
-                s2.push(arr[idx]);
-                idx++;
-                while (idx < arr.length && arr[idx] < s2.peek()) {
-                    s2.push(arr[idx]);
-                    idx++;
+                    while (right < arr.length - 1 && arr[right] > arr[right + 1]) {
+                        right++;
+                    }
+                    ans = Math.max(ans, right - left + 1);
                 }
-                ans += s2.size();
             }
-
-            if (ans >= 3) {
-                return ans;
-            } else {
-                return 0;
-            }
+            return ans;
         }
     }
 //leetcode submit region end(Prohibit modification and deletion)

@@ -5,9 +5,8 @@ import java.util.Stack;
 public class Test {
     public static void main(String[] args) {
         Solution solution = new Solution();
-        int ans = solution.maxLength(new int[]{1, 2, 3, 3, 2});
+        int ans = solution.maxLength(new int[]{2, 5, 2, 1, 5});
         System.out.println(ans);
-
     }
 
     public static class Solution {
