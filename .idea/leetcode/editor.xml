@@ -1208,6 +1208,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountSquareSubmatricesWithAllOnes_1277.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1277" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountSquareSubmatricesWithAllOnes_1277.java" />
+              <option name="titleSlug" value="count-square-submatrices-with-all-ones" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountSubarraysOfLengthThreeWithACondition_3392.java">
           <value>
             <LeetcodeEditor>
@@ -4914,6 +4924,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfWaysToSplitArray_2270.java" />
               <option name="titleSlug" value="number-of-ways-to-split-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfZeroFilledSubarrays_2348.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2348" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfZeroFilledSubarrays_2348.java" />
+              <option name="titleSlug" value="number-of-zero-filled-subarrays" />
             </LeetcodeEditor>
           </value>
         </entry>
