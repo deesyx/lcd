@@ -1238,6 +1238,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountSubmatricesWithAllOnes_1504.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1504" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountSubmatricesWithAllOnes_1504.java" />
+              <option name="titleSlug" value="count-submatrices-with-all-ones" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountSubstringsThatDifferByOneCharacter_One638.java">
           <value>
             <LeetcodeEditor>
