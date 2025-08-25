@@ -2377,6 +2377,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheMinimumAreaToCoverAllOnesI_3195.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3195" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheMinimumAreaToCoverAllOnesI_3195.java" />
+              <option name="titleSlug" value="find-the-minimum-area-to-cover-all-ones-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheNumberOfGoodPairsI_3162.java">
           <value>
             <LeetcodeEditor>
