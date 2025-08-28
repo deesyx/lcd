@@ -6360,6 +6360,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SortMatrixByDiagonals_3446.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3446" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SortMatrixByDiagonals_3446.java" />
+              <option name="titleSlug" value="sort-matrix-by-diagonals" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SortThePeople_Two418.java">
           <value>
             <LeetcodeEditor>
