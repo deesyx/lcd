@@ -78,6 +78,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/AliceAndBobPlayingFlowerGame_3021.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3021" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AliceAndBobPlayingFlowerGame_3021.java" />
+              <option name="titleSlug" value="alice-and-bob-playing-flower-game" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/AlphabetBoardPath_One138.java">
           <value>
             <LeetcodeEditor>
@@ -5606,6 +5616,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RearrangeSpacesBetweenWords_One592.java" />
               <option name="titleSlug" value="rearrange-spaces-between-words" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ReconstructOriginalDigitsFromEnglish_423.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn423" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ReconstructOriginalDigitsFromEnglish_423.java" />
+              <option name="titleSlug" value="reconstruct-original-digits-from-english" />
             </LeetcodeEditor>
           </value>
         </entry>
