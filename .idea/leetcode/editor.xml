@@ -2165,6 +2165,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindClosestPerson_3516.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3516" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindClosestPerson_3516.java" />
+              <option name="titleSlug" value="find-closest-person" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindCustomerReferee_584.java">
           <value>
             <LeetcodeEditor>
@@ -6611,6 +6621,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SubstringWithConcatenationOfAllWords_Three0.java" />
               <option name="titleSlug" value="substring-with-concatenation-of-all-words" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SubtractTheProductAndSumOfDigitsOfAnInteger_1281.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1281" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SubtractTheProductAndSumOfDigitsOfAnInteger_1281.java" />
+              <option name="titleSlug" value="subtract-the-product-and-sum-of-digits-of-an-integer" />
             </LeetcodeEditor>
           </value>
         </entry>
