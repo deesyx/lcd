@@ -4953,6 +4953,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfPeopleAwareOfASecret_2327.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2327" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfPeopleAwareOfASecret_2327.java" />
+              <option name="titleSlug" value="number-of-people-aware-of-a-secret" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfRecentCalls_Nine33.java">
           <value>
             <LeetcodeEditor>
