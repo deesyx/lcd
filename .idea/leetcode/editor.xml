@@ -6917,6 +6917,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/TakingMaximumEnergyFromTheMysticDungeon_3147.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3147" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/TakingMaximumEnergyFromTheMysticDungeon_3147.java" />
+              <option name="titleSlug" value="taking-maximum-energy-from-the-mystic-dungeon" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/TargetSum_Four94.java">
           <value>
             <LeetcodeEditor>
