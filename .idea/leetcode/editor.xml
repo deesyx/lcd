@@ -6404,6 +6404,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SmallestNumberWithAllSetBits_3370.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3370" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SmallestNumberWithAllSetBits_3370.java" />
+              <option name="titleSlug" value="smallest-number-with-all-set-bits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SmallestRangeI_908.java">
           <value>
             <LeetcodeEditor>
