@@ -554,6 +554,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfBinaryStringHasAtMostOneSegmentOfOnes_1784.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1784" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfBinaryStringHasAtMostOneSegmentOfOnes_1784.java" />
+              <option name="titleSlug" value="check-if-binary-string-has-at-most-one-segment-of-ones" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfMatrixIsXMatrix_Two319.java">
           <value>
             <LeetcodeEditor>
@@ -1456,6 +1466,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CyJERH_剑指OfferII092.java" />
               <option name="titleSlug" value="cyJERH" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DailyLeadsAndPartners_1693.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1693" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DailyLeadsAndPartners_1693.java" />
+              <option name="titleSlug" value="daily-leads-and-partners" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2527,6 +2547,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheXorOfNumbersWhichAppearTwice_3158.java" />
               <option name="titleSlug" value="find-the-xor-of-numbers-which-appear-twice" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTotalTimeSpentByEachEmployee_1741.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1741" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindTotalTimeSpentByEachEmployee_1741.java" />
+              <option name="titleSlug" value="find-total-time-spent-by-each-employee" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -6881,6 +6911,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfTwoIntegers_371.java" />
               <option name="titleSlug" value="sum-of-two-integers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfUniqueElements_1748.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1748" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfUniqueElements_1748.java" />
+              <option name="titleSlug" value="sum-of-unique-elements" />
             </LeetcodeEditor>
           </value>
         </entry>
