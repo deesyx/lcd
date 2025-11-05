@@ -2571,6 +2571,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindXSumOfAllKLongSubarraysI_3318.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3318" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindXSumOfAllKLongSubarraysI_3318.java" />
+              <option name="titleSlug" value="find-x-sum-of-all-k-long-subarrays-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Finding3DigitEvenNumbers_2094.java">
           <value>
             <LeetcodeEditor>
@@ -3965,6 +3975,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumMatchingOfPlayersWithTrainers_2410.java" />
               <option name="titleSlug" value="maximum-matching-of-players-with-trainers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumNumberOfBalloons_1189.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1189" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumNumberOfBalloons_1189.java" />
+              <option name="titleSlug" value="maximum-number-of-balloons" />
             </LeetcodeEditor>
           </value>
         </entry>
