@@ -5493,6 +5493,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PowerGridMaintenance_3607.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3607" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PowerGridMaintenance_3607.java" />
+              <option name="titleSlug" value="power-grid-maintenance" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PowerOfFour_342.java">
           <value>
             <LeetcodeEditor>
@@ -6077,6 +6087,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ReverseNodesInKGroup_Two5.java" />
               <option name="titleSlug" value="reverse-nodes-in-k-group" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ReverseOnlyLetters_917.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn917" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ReverseOnlyLetters_917.java" />
+              <option name="titleSlug" value="reverse-only-letters" />
             </LeetcodeEditor>
           </value>
         </entry>
