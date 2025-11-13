@@ -4040,6 +4040,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumNumberOfOperationsToMoveOnesToTheEnd_3228.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3228" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumNumberOfOperationsToMoveOnesToTheEnd_3228.java" />
+              <option name="titleSlug" value="maximum-number-of-operations-to-move-ones-to-the-end" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumNumberOfVowelsInASubstringOfGivenLength_1456.java">
           <value>
             <LeetcodeEditor>
