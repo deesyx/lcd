@@ -3026,6 +3026,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/IncrementSubmatricesByOne_2536.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2536" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/IncrementSubmatricesByOne_2536.java" />
+              <option name="titleSlug" value="increment-submatrices-by-one" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/InsertDeleteGetrandomO1_380.java">
           <value>
             <LeetcodeEditor>
