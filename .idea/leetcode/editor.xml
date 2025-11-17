@@ -573,6 +573,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfAll1sAreAtLeastLengthKPlacesAway_1437.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1437" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfAll1sAreAtLeastLengthKPlacesAway_1437.java" />
+              <option name="titleSlug" value="check-if-all-1s-are-at-least-length-k-places-away" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfArrayIsSortedAndRotated_One752.java">
           <value>
             <LeetcodeEditor>
