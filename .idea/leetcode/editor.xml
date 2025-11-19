@@ -3247,6 +3247,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/KeepMultiplyingFoundValuesByTwo_2154.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2154" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/KeepMultiplyingFoundValuesByTwo_2154.java" />
+              <option name="titleSlug" value="keep-multiplying-found-values-by-two" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/KeyboardRow_500.java">
           <value>
             <LeetcodeEditor>
@@ -5259,6 +5269,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/OneAwayLcci_面试题01.05.java" />
               <option name="titleSlug" value="one-away-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/OneBitAnd2BitCharacters_717.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn717" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/OneBitAnd2BitCharacters_717.java" />
+              <option name="titleSlug" value="1-bit-and-2-bit-characters" />
             </LeetcodeEditor>
           </value>
         </entry>
