@@ -7454,6 +7454,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/UniqueLength3PalindromicSubsequences_1930.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1930" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/UniqueLength3PalindromicSubsequences_1930.java" />
+              <option name="titleSlug" value="unique-length-3-palindromic-subsequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/UniqueMorseCodeWords_804.java">
           <value>
             <LeetcodeEditor>
