@@ -1288,6 +1288,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountPartitionsWithEvenSumDifference_3432.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3432" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountPartitionsWithEvenSumDifference_3432.java" />
+              <option name="titleSlug" value="count-partitions-with-even-sum-difference" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountPrefixesOfAGivenString_2255.java">
           <value>
             <LeetcodeEditor>
