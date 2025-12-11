@@ -1061,6 +1061,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountCoveredBuildings_3531.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3531" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountCoveredBuildings_3531.java" />
+              <option name="titleSlug" value="count-covered-buildings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountDaysSpentTogether_Two409.java">
           <value>
             <LeetcodeEditor>
@@ -1408,6 +1418,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountTheHiddenSequences_2145.java" />
               <option name="titleSlug" value="count-the-hidden-sequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountTheNumberOfComputerUnlockingPermutations_3577.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3577" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountTheNumberOfComputerUnlockingPermutations_3577.java" />
+              <option name="titleSlug" value="count-the-number-of-computer-unlocking-permutations" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -6023,6 +6043,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RelativeSortArray_1122.java" />
               <option name="titleSlug" value="relative-sort-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RemoveAllAdjacentDuplicatesInString_1047.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1047" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RemoveAllAdjacentDuplicatesInString_1047.java" />
+              <option name="titleSlug" value="remove-all-adjacent-duplicates-in-string" />
             </LeetcodeEditor>
           </value>
         </entry>
