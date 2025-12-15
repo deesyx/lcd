@@ -1804,6 +1804,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DetermineIfTwoEventsHaveConflict_2446.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2446" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DetermineIfTwoEventsHaveConflict_2446.java" />
+              <option name="titleSlug" value="determine-if-two-events-have-conflict" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DetermineTheMinimumSumOfAKAvoidingArray_2829.java">
           <value>
             <LeetcodeEditor>
@@ -6127,6 +6137,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RemoveOutermostParentheses_One021.java" />
               <option name="titleSlug" value="remove-outermost-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RemovePalindromicSubsequences_1332.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1332" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RemovePalindromicSubsequences_1332.java" />
+              <option name="titleSlug" value="remove-palindromic-subsequences" />
             </LeetcodeEditor>
           </value>
         </entry>
