@@ -3347,6 +3347,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/KthMissingPositiveNumber_1539.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1539" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/KthMissingPositiveNumber_1539.java" />
+              <option name="titleSlug" value="kth-missing-positive-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/KthSmallestElementInABst_230.java">
           <value>
             <LeetcodeEditor>
