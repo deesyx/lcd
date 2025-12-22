@@ -712,6 +712,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfWordEqualsSummationOfTwoWords_1880.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1880" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfWordEqualsSummationOfTwoWords_1880.java" />
+              <option name="titleSlug" value="check-if-word-equals-summation-of-two-words" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckPermutationLcci_面试题01.02.java">
           <value>
             <LeetcodeEditor>
