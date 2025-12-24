@@ -141,6 +141,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/AppleRedistributionIntoBoxes_3074.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3074" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AppleRedistributionIntoBoxes_3074.java" />
+              <option name="titleSlug" value="apple-redistribution-into-boxes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ApplyOperationsToAnArray_2460.java">
           <value>
             <LeetcodeEditor>
