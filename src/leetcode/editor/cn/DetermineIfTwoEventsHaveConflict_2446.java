@@ -62,7 +62,10 @@ public class DetermineIfTwoEventsHaveConflict_2446 {
 	//leetcode submit region begin(Prohibit modification and deletion)
 	class Solution {
 		public boolean haveConflict(String[] event1, String[] event2) {
-			if (parseTime(event2[0]) <= parseTime(event1[1]) && parseTime(event2[1]) >= parseTime(event1[0]))
+			if (parseTime(event2[0]) <= parseTime(event1[1]) && parseTime(event2[1]) >= parseTime(event1[0])) {
+				return true;
+			}
+			return false;
 		}
 
 		private int parseTime(String time) {
