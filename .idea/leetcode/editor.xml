@@ -3777,6 +3777,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestSubsequenceWithLimitedSum_2389.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2389" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestSubsequenceWithLimitedSum_2389.java" />
+              <option name="titleSlug" value="longest-subsequence-with-limited-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestSubstringWithAtLeastKRepeatingCharacters_395.java">
           <value>
             <LeetcodeEditor>
