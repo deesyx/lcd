@@ -775,6 +775,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CircularSentence_2490.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2490" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CircularSentence_2490.java" />
+              <option name="titleSlug" value="circular-sentence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CloneGraph_One33.java">
           <value>
             <LeetcodeEditor>
@@ -5747,6 +5757,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PingHengErChaShuLcof_剑指Offer55II.java" />
               <option name="titleSlug" value="ping-heng-er-cha-shu-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PointsThatIntersectWithCars_2848.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2848" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PointsThatIntersectWithCars_2848.java" />
+              <option name="titleSlug" value="points-that-intersect-with-cars" />
             </LeetcodeEditor>
           </value>
         </entry>
