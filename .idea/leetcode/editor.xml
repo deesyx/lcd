@@ -6846,6 +6846,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SmallestSubtreeWithAllTheDeepestNodes_865.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn865" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SmallestSubtreeWithAllTheDeepestNodes_865.java" />
+              <option name="titleSlug" value="smallest-subtree-with-all-the-deepest-nodes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SolveTheEquation_Six40.java">
           <value>
             <LeetcodeEditor>
