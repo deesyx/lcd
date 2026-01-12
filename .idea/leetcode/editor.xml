@@ -7016,6 +7016,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SplitAStringInBalancedStrings_1221.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1221" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SplitAStringInBalancedStrings_1221.java" />
+              <option name="titleSlug" value="split-a-string-in-balanced-strings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SplitTheArray_3046.java">
           <value>
             <LeetcodeEditor>
