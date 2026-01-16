@@ -3936,6 +3936,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MakeTheStringGreat_1544.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1544" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MakeTheStringGreat_1544.java" />
+              <option name="titleSlug" value="make-the-string-great" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MakeTwoArraysEqualByReversingSubArrays_One460.java">
           <value>
             <LeetcodeEditor>
