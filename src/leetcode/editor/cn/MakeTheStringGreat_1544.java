@@ -85,6 +85,7 @@ public class MakeTheStringGreat_1544 {
 			while (!stack.isEmpty()) {
 				sb.append(stack.pop());
 			}
+
 			return sb.reverse().toString();
 		}
 	}

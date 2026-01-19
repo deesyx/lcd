@@ -2649,6 +2649,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheNumberOfWinningPlayers_3238.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3238" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheNumberOfWinningPlayers_3238.java" />
+              <option name="titleSlug" value="find-the-number-of-winning-players" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheOriginalTypedStringI_3330.java">
           <value>
             <LeetcodeEditor>
