@@ -933,6 +933,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ConstructTheMinimumBitwiseArrayI_3314.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3314" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ConstructTheMinimumBitwiseArrayI_3314.java" />
+              <option name="titleSlug" value="construct-the-minimum-bitwise-array-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ConstructTheRectangle_492.java">
           <value>
             <LeetcodeEditor>
