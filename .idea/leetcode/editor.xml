@@ -1725,6 +1725,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DeleteGreatestValueInEachRow_2500.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2500" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DeleteGreatestValueInEachRow_2500.java" />
+              <option name="titleSlug" value="delete-greatest-value-in-each-row" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DeleteNodeInABst_450.java">
           <value>
             <LeetcodeEditor>
