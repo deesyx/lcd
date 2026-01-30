@@ -2812,6 +2812,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FirstLetterToAppearTwice_2351.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2351" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FirstLetterToAppearTwice_2351.java" />
+              <option name="titleSlug" value="first-letter-to-appear-twice" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Five69nqc_剑指OfferII035.java">
           <value>
             <LeetcodeEditor>
