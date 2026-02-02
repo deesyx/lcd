@@ -634,6 +634,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfDigitsAreEqualInStringAfterOperationsI_3461.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3461" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfDigitsAreEqualInStringAfterOperationsI_3461.java" />
+              <option name="titleSlug" value="check-if-digits-are-equal-in-string-after-operations-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfMatrixIsXMatrix_Two319.java">
           <value>
             <LeetcodeEditor>
