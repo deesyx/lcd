@@ -603,6 +603,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckDistancesBetweenSameLetters_2399.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2399" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CheckDistancesBetweenSameLetters_2399.java" />
+              <option name="titleSlug" value="check-distances-between-same-letters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfAll1sAreAtLeastLengthKPlacesAway_1437.java">
           <value>
             <LeetcodeEditor>
