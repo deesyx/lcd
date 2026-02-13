@@ -1193,6 +1193,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountElementsWithStrictlySmallerAndGreaterElements_2148.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2148" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountElementsWithStrictlySmallerAndGreaterElements_2148.java" />
+              <option name="titleSlug" value="count-elements-with-strictly-smaller-and-greater-elements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountEqualAndDivisiblePairsInAnArray_2176.java">
           <value>
             <LeetcodeEditor>
