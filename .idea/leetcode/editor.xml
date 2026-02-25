@@ -7132,13 +7132,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SortIntegersByTheNumberOf1Bits_1356.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SortIntegersByTheNumberOf1Bits_One356.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1356" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SortIntegersByTheNumberOf1Bits_1356.java" />
+              <option name="titleSlug" value="sort-integers-by-the-number-of-1-bits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SortIntegersByTheNumberOf1Bits_One356.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SortIntegersByTheNumberOf1Bits_One356.md" />
               <option name="frontendQuestionId" value="leetcode.cn1356" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SortIntegersByTheNumberOf1Bits_One356.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SortIntegersByTheNumberOf1Bits_1356.java" />
               <option name="titleSlug" value="sort-integers-by-the-number-of-1-bits" />
             </LeetcodeEditor>
           </value>
@@ -7481,13 +7492,24 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfRootToLeafBinaryNumbers_1022.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SumOfRootToLeafBinaryNumbers_One022.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1022" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfRootToLeafBinaryNumbers_1022.java" />
+              <option name="titleSlug" value="sum-of-root-to-leaf-binary-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfRootToLeafBinaryNumbers_One022.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SumOfRootToLeafBinaryNumbers_One022.md" />
               <option name="frontendQuestionId" value="leetcode.cn1022" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfRootToLeafBinaryNumbers_One022.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfRootToLeafBinaryNumbers_1022.java" />
               <option name="titleSlug" value="sum-of-root-to-leaf-binary-numbers" />
             </LeetcodeEditor>
           </value>
