@@ -2811,6 +2811,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindWordsThatCanBeFormedByCharacters_1160.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1160" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindWordsThatCanBeFormedByCharacters_1160.java" />
+              <option name="titleSlug" value="find-words-that-can-be-formed-by-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindXSumOfAllKLongSubarraysI_3318.java">
           <value>
             <LeetcodeEditor>
