@@ -6335,6 +6335,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RedistributeCharactersToMakeAllStringsEqual_1897.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1897" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RedistributeCharactersToMakeAllStringsEqual_1897.java" />
+              <option name="titleSlug" value="redistribute-characters-to-make-all-strings-equal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RedundantConnection_Six84.java">
           <value>
             <LeetcodeEditor>
