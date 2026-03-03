@@ -633,6 +633,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfAllCharactersHaveEqualNumberOfOccurrences_1941.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1941" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfAllCharactersHaveEqualNumberOfOccurrences_1941.java" />
+              <option name="titleSlug" value="check-if-all-characters-have-equal-number-of-occurrences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfArrayIsSortedAndRotated_One752.java">
           <value>
             <LeetcodeEditor>
