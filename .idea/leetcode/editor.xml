@@ -7268,6 +7268,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SpecialPositionsInABinaryMatrix_1582.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1582" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SpecialPositionsInABinaryMatrix_1582.java" />
+              <option name="titleSlug" value="special-positions-in-a-binary-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SpiralMatrixIi_59.java">
           <value>
             <LeetcodeEditor>
