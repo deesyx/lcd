@@ -941,6 +941,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ConsecutiveCharacters_1446.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1446" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ConsecutiveCharacters_1446.java" />
+              <option name="titleSlug" value="consecutive-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ConstructBinaryTreeFromInorderAndPostorderTraversal_106.java">
           <value>
             <LeetcodeEditor>
@@ -4546,6 +4556,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumValueAtAGivenIndexInABoundedArray_One802.java" />
               <option name="titleSlug" value="maximum-value-at-a-given-index-in-a-bounded-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumValueOfAStringInAnArray_2496.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2496" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumValueOfAStringInAnArray_2496.java" />
+              <option name="titleSlug" value="maximum-value-of-a-string-in-an-array" />
             </LeetcodeEditor>
           </value>
         </entry>
