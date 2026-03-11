@@ -919,6 +919,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ComplementOfBase10Integer_1009.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1009" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ComplementOfBase10Integer_1009.java" />
+              <option name="titleSlug" value="complement-of-base-10-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CompleteBinaryTreeInserter_Nine19.java">
           <value>
             <LeetcodeEditor>
