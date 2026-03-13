@@ -2060,6 +2060,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DivideArrayIntoEqualPairs_2206.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2206" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/DivideArrayIntoEqualPairs_2206.java" />
+              <option name="titleSlug" value="divide-array-into-equal-pairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/DivideTwoIntegers_29.java">
           <value>
             <LeetcodeEditor>
