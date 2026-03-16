@@ -3640,6 +3640,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LargestPositiveIntegerThatExistsWithItsNegative_2441.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2441" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LargestPositiveIntegerThatExistsWithItsNegative_2441.java" />
+              <option name="titleSlug" value="largest-positive-integer-that-exists-with-its-negative" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LargestSumOfAverages_Eight13.java">
           <value>
             <LeetcodeEditor>
@@ -5682,6 +5692,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfUniqueSubjectsTaughtByEachTeacher_2356.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2356" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfUniqueSubjectsTaughtByEachTeacher_2356.java" />
+              <option name="titleSlug" value="number-of-unique-subjects-taught-by-each-teacher" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfWaysToSplitArray_2270.java">
           <value>
             <LeetcodeEditor>
@@ -7408,6 +7428,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/StepsToMakeArrayNonDecreasing_Two289.java" />
               <option name="titleSlug" value="steps-to-make-array-non-decreasing" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/StrictlyPalindromicNumber_2396.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2396" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/StrictlyPalindromicNumber_2396.java" />
+              <option name="titleSlug" value="strictly-palindromic-number" />
             </LeetcodeEditor>
           </value>
         </entry>
