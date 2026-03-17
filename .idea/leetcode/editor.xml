@@ -3956,6 +3956,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestStrictlyIncreasingOrStrictlyDecreasingSubarray_3105.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3105" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestStrictlyIncreasingOrStrictlyDecreasingSubarray_3105.java" />
+              <option name="titleSlug" value="longest-strictly-increasing-or-strictly-decreasing-subarray" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestStringChain_One048.java">
           <value>
             <LeetcodeEditor>
