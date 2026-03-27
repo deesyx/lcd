@@ -4199,6 +4199,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MatrixSimilarityAfterCyclicShifts_2946.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2946" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MatrixSimilarityAfterCyclicShifts_2946.java" />
+              <option name="titleSlug" value="matrix-similarity-after-cyclic-shifts" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaxChunksToMakeSorted_Seven69.java">
           <value>
             <LeetcodeEditor>
