@@ -684,6 +684,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfGridSatisfiesConditions_3142.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3142" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfGridSatisfiesConditions_3142.java" />
+              <option name="titleSlug" value="check-if-grid-satisfies-conditions" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfMatrixIsXMatrix_Two319.java">
           <value>
             <LeetcodeEditor>
