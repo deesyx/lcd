@@ -1458,6 +1458,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountPrefixAndSuffixPairsI_3042.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3042" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CountPrefixAndSuffixPairsI_3042.java" />
+              <option name="titleSlug" value="count-prefix-and-suffix-pairs-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CountPrefixesOfAGivenString_2255.java">
           <value>
             <LeetcodeEditor>
@@ -7213,6 +7223,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SmallestEvenMultiple_Two413.java" />
               <option name="titleSlug" value="smallest-even-multiple" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SmallestMissingIntegerGreaterThanSequentialPrefixSum_2996.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2996" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SmallestMissingIntegerGreaterThanSequentialPrefixSum_2996.java" />
+              <option name="titleSlug" value="smallest-missing-integer-greater-than-sequential-prefix-sum" />
             </LeetcodeEditor>
           </value>
         </entry>
