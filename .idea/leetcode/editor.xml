@@ -3469,6 +3469,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/InvalidTweets_1683.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1683" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/InvalidTweets_1683.java" />
+              <option name="titleSlug" value="invalid-tweets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/IsSubsequence_392.java">
           <value>
             <LeetcodeEditor>
@@ -6483,6 +6493,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RearrangeProductsTable_1795.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1795" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RearrangeProductsTable_1795.java" />
+              <option name="titleSlug" value="rearrange-products-table" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RearrangeSpacesBetweenWords_One592.java">
           <value>
             <LeetcodeEditor>
@@ -8117,6 +8137,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/TrionicArrayI_3637.java" />
               <option name="titleSlug" value="trionic-array-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/TruncateSentence_1816.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1816" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/TruncateSentence_1816.java" />
+              <option name="titleSlug" value="truncate-sentence" />
             </LeetcodeEditor>
           </value>
         </entry>
