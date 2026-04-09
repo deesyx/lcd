@@ -3509,6 +3509,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/IntersectionOfMultipleArrays_2248.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2248" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/IntersectionOfMultipleArrays_2248.java" />
+              <option name="titleSlug" value="intersection-of-multiple-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/IntersectionOfTwoArraysIi_350.java">
           <value>
             <LeetcodeEditor>
