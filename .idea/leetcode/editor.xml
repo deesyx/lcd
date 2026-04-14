@@ -5732,6 +5732,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfBitChangesToMakeTwoIntegersEqual_3226.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3226" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfBitChangesToMakeTwoIntegersEqual_3226.java" />
+              <option name="titleSlug" value="number-of-bit-changes-to-make-two-integers-equal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/NumberOfBoomerangs_447.java">
           <value>
             <LeetcodeEditor>
