@@ -25,6 +25,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ANumberAfterADoubleReversal_2119.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn2119" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ANumberAfterADoubleReversal_2119.java" />
+              <option name="titleSlug" value="a-number-after-a-double-reversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/AddDigits_258.java">
           <value>
             <LeetcodeEditor>
