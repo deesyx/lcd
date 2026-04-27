@@ -4568,6 +4568,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumLengthSubstringWithTwoOccurrences_3090.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3090" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumLengthSubstringWithTwoOccurrences_3090.java" />
+              <option name="titleSlug" value="maximum-length-substring-with-two-occurrences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumLevelSumOfABinaryTree_1161.java">
           <value>
             <LeetcodeEditor>
