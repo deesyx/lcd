@@ -1,0 +1,78 @@
+//给你一个整数数组 nums。 
+//
+// 返回数组中所有 偶数 的按位 或 运算结果。 
+//
+// 如果 nums 中没有偶数，返回 0。 
+//
+// 
+//
+// 示例 1： 
+//
+// 
+// 输入： nums = [1,2,3,4,5,6] 
+// 
+//
+// 输出： 6 
+//
+// 解释： 
+//
+// 偶数为 2、4 和 6。它们的按位或运算结果是 6。 
+//
+// 示例 2： 
+//
+// 
+// 输入： nums = [7,9,11] 
+// 
+//
+// 输出： 0 
+//
+// 解释： 
+//
+// 数组中没有偶数，因此结果为 0。 
+//
+// 示例 3： 
+//
+// 
+// 输入： nums = [1,8,16] 
+// 
+//
+// 输出： 24 
+//
+// 解释： 
+//
+// 偶数为 8 和 16。它们的按位或运算结果是 24。 
+//
+// 
+//
+// 提示： 
+//
+// 
+// 1 <= nums.length <= 100 
+// 1 <= nums[i] <= 100 
+// 
+//
+// Related Topics 位运算 数组 模拟 👍 2 👎 0
+
+
+package leetcode.editor.cn;
+
+public class BitwiseOrOfEvenNumbersInAnArray_3688 {
+    public static void main(String[] args) {
+        Solution solution = new BitwiseOrOfEvenNumbersInAnArray_3688().new Solution();
+    }
+
+    //leetcode submit region begin(Prohibit modification and deletion)
+    class Solution {
+        public int evenNumberBitwiseORs(int[] nums) {
+            int ans = 0;
+            for (int n : nums) {
+                if ((n & 1) == 0) {
+                    ans |= n;
+                }
+            }
+            return ans;
+        }
+    }
+//leetcode submit region end(Prohibit modification and deletion)
+
+}
