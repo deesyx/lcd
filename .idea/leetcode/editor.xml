@@ -2849,6 +2849,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheMiddleIndexInArray_1991.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn1991" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheMiddleIndexInArray_1991.java" />
+              <option name="titleSlug" value="find-the-middle-index-in-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindTheMinimumAreaToCoverAllOnesI_3195.java">
           <value>
             <LeetcodeEditor>
