@@ -643,6 +643,16 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckDivisibilityByDigitSumAndProduct_3622.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3622" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/CheckDivisibilityByDigitSumAndProduct_3622.java" />
+              <option name="titleSlug" value="check-divisibility-by-digit-sum-and-product" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CheckIfAStringIsAnAcronymOfWords_2828.java">
           <value>
             <LeetcodeEditor>
@@ -8025,6 +8035,16 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfUniqueElements_1748.java" />
               <option name="titleSlug" value="sum-of-unique-elements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfVariableLengthSubarrays_3427.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="frontendQuestionId" value="leetcode.cn3427" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SumOfVariableLengthSubarrays_3427.java" />
+              <option name="titleSlug" value="sum-of-variable-length-subarrays" />
             </LeetcodeEditor>
           </value>
         </entry>
